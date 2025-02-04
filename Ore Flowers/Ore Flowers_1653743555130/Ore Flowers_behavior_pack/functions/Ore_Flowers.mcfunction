@@ -1,0 +1,16 @@
+give @s gf:diamondflower
+give @s gf:emeraldflower
+give @s gf:goldenflower
+give @s gf:ironflower
+give @s gf:redstoneflower
+give @s gf:coalflower
+give @s gf:swordironflower
+give @s gf:sworddiamondflower
+give @s gf:swordemeraldflower
+give @s gf:swordcoalflower
+give @s gf:swordredstoneflower
+give @s gf:swordgoldenflower
+give @s gf:redstonenugget
+give @s gf:diamondnugget
+give @s gf:emeraldnugget
+give @s gf:coalnugget

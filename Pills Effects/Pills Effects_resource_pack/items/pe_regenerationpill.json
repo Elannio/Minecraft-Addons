@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pe:regenerationpill",
+      "category": "Nature"
+    },
+    "components": {
+      "minecraft:icon": "pe:regenerationpill",
+      "minecraft:use_animation": "drink",
+      "minecraft:render_offsets": "apple"
+    }
+  }
+}

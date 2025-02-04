@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This addon add new blocks for your minecraft by Mushroom",
+    "name": "Rich Ores",
+    "uuid": "ce1eb57a-1c6a-46dd-8d60-86acc3968d15",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon add new blocks for your minecraft by Mushroom",
+      "type": "resources",
+      "uuid": "56b976a2-af2f-4e0e-b3d1-624aa691352d",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "020f398b-c662-49ae-bc53-fbe387674351",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

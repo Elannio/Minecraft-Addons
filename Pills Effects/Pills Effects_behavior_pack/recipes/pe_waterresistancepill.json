@@ -1,0 +1,41 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "waterresistancepill_49790f61"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CDE"
+    ],
+    "key": {
+      "A": {
+        "item": "pe:basepill",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 12
+      },
+      "C": {
+        "item": "minecraft:pufferfish",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:dye",
+        "data": 8
+      },
+      "E": {
+        "item": "minecraft:spider_eye",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pe:waterresistancepill",
+      "count": 2
+    }
+  }
+}

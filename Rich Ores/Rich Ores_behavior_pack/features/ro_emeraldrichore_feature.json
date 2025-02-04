@@ -1,0 +1,19 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "ro_emeraldrichore_feature"
+    },
+    "count": 2,
+    "replace_rules": [
+      {
+        "places_block": "ro:emeraldrichore",
+        "may_replace": [
+          "minecraft:stone",
+          "minecraft:netherrack",
+          "minecraft:end_stone"
+        ]
+      }
+    ]
+  }
+}

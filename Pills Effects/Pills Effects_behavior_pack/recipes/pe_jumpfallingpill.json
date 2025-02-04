@@ -1,0 +1,41 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "jumpfallingpill_2d48d980"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CDE"
+    ],
+    "key": {
+      "A": {
+        "item": "pe:basepill",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 10
+      },
+      "C": {
+        "item": "minecraft:rabbit_hide",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:dye",
+        "data": 9
+      },
+      "E": {
+        "item": "minecraft:snowball",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pe:jumpfallingpill",
+      "count": 2
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "waterandfire_04d1e776"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CDE"
+    ],
+    "key": {
+      "A": {
+        "item": "pe:basepill",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 12
+      },
+      "C": {
+        "item": "minecraft:pufferfish",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:dye",
+        "data": 11
+      },
+      "E": {
+        "item": "minecraft:gunpowder",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pe:waterandfire",
+      "count": 2
+    }
+  }
+}

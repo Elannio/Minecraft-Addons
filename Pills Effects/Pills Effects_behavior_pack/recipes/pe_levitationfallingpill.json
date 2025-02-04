@@ -1,0 +1,41 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "levitationfallingpill_b0283135"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CDE"
+    ],
+    "key": {
+      "A": {
+        "item": "pe:basepill",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 9
+      },
+      "C": {
+        "item": "minecraft:clownfish",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:dye",
+        "data": 14
+      },
+      "E": {
+        "item": "minecraft:snowball",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pe:levitationfallingpill",
+      "count": 2
+    }
+  }
+}

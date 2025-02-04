@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This addon add more items for fishing in mine by landay",
+    "name": "Profitable Fishing Rare Items",
+    "uuid": "3088c261-8df4-4515-bfa6-295abd3a9850",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon add more items for fishing in mine by landay",
+      "type": "data",
+      "uuid": "fa3d8a3a-ee4a-45ff-b6d1-0782e2614778",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

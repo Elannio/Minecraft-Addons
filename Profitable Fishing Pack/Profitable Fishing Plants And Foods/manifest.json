@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This addon add more items for fishing in mine by landay",
+    "name": "Profitable Fishing Plants and Foods",
+    "uuid": "dd57d22a-93b7-4495-aba9-5168a23b9e09",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon add more items for fishing in mine by landay",
+      "type": "data",
+      "uuid": "57352822-81d5-45f4-9533-c9018544d1d4",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

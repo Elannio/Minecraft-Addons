@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "gf:emeraldnugget",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "gf:emeraldnugget",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

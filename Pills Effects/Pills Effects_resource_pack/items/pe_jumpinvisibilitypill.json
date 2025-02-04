@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pe:jumpinvisibilitypill",
+      "category": "Nature"
+    },
+    "components": {
+      "minecraft:icon": "pe:jumpinvisibilitypill",
+      "minecraft:use_animation": "drink",
+      "minecraft:render_offsets": "apple"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "regenerationpill_2ea964f6"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CBC"
+    ],
+    "key": {
+      "A": {
+        "item": "pe:basepill",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 1
+      },
+      "C": {
+        "item": "minecraft:glowstone_dust",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pe:regenerationpill",
+      "count": 2
+    }
+  }
+}

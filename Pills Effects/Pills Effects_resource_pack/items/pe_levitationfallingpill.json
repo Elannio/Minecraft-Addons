@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pe:levitationfallingpill",
+      "category": "Nature"
+    },
+    "components": {
+      "minecraft:icon": "pe:levitationfallingpill",
+      "minecraft:use_animation": "drink",
+      "minecraft:render_offsets": "apple"
+    }
+  }
+}

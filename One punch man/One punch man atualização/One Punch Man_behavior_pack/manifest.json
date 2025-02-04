@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "Have the power of justice in your fists by LanDay",
+    "name": "One Punch Man",
+    "uuid": "40343ce6-6ea0-459b-83ef-dcb2040433aa",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Have the power of justice in your fists by LanDay",
+      "type": "data",
+      "uuid": "e261cb91-fd8f-4acc-a51a-6917c9cda7d8",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nightvisionpill_97e4a68f"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CBC"
+    ],
+    "key": {
+      "A": {
+        "item": "pe:basepill",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 18
+      },
+      "C": {
+        "item": "minecraft:carrot",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pe:nightvisionpill",
+      "count": 2
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "gf:goldenplant": {
+    "textures": "gf_goldenplant_stage_0",
+    "sound": "grass"
+  },
+  "gf:diamondplant": {
+    "textures": "gf_diamondplant_stage_0",
+    "sound": "grass"
+  },
+  "gf:coalplant": {
+    "textures": "gf_coalplant_stage_0",
+    "sound": "grass"
+  },
+  "gf:redstoneplant": {
+    "textures": "gf_redstoneplant_stage_0",
+    "sound": "grass"
+  },
+  "gf:ironplant": {
+    "textures": "gf_ironplant_stage_0",
+    "sound": "grass"
+  },
+  "gf:emeraldplant": {
+    "textures": "gf_emeraldplant_stage_0",
+    "sound": "grass"
+  },
+  "gf:goldenflower": {
+    "textures": "gf_goldenflower_stage_0",
+    "sound": "grass"
+  },
+  "gf:emeraldflower": {
+    "textures": "gf_emeraldflower_stage_0",
+    "sound": "grass"
+  },
+  "gf:diamondflower": {
+    "textures": "gf_diamondflower_stage_0",
+    "sound": "grass"
+  },
+  "gf:ironflower": {
+    "textures": "gf_ironflower_stage_0",
+    "sound": "grass"
+  },
+  "gf:coalflower": {
+    "textures": "gf_coalflower_stage_0",
+    "sound": "grass"
+  },
+  "gf:redstoneflower": {
+    "textures": "gf_redstoneflower_stage_0",
+    "sound": "grass"
+  },
+  "format_version": [
+    1,
+    1,
+    0
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "strenght_164fefd9"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CBC"
+    ],
+    "key": {
+      "A": {
+        "item": "pe:basepill",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 5
+      },
+      "C": {
+        "item": "minecraft:gold_nugget",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pe:strenght",
+      "count": 2
+    }
+  }
+}

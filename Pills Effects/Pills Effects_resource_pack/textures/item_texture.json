@@ -1,0 +1,162 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "egg_camel": {
+      "textures": "textures/items/egg_camel"
+    },
+    "egg_lion": {
+      "textures": "textures/items/egg_lion"
+    },
+    "egg_penguin": {
+      "textures": "textures/items/egg_penguin"
+    },
+    "egg_tiger": {
+      "textures": "textures/items/egg_tiger"
+    },
+    "egg_elephant": {
+      "textures": "textures/items/egg_elephant"
+    },
+    "egg_deer": {
+      "textures": "textures/items/egg_deer"
+    },
+    "egg_panther": {
+      "textures": "textures/items/egg_panther"
+    },
+    "egg_frog": {
+      "textures": "textures/items/egg_frog"
+    },
+    "egg_crocodile": {
+      "textures": "textures/items/egg_crocodile"
+    },
+    "egg_mouse": {
+      "textures": "textures/items/egg_mouse"
+    },
+    "gallardo": {
+      "textures": "textures/items/gallardo"
+    },
+    "bench": {
+      "textures": "textures/items/bench"
+    },
+    "christmas_tree": {
+      "textures": "textures/items/christmas_tree"
+    },
+    "tivi": {
+      "textures": "textures/items/tivi"
+    },
+    "closet": {
+      "textures": "textures/items/closet"
+    },
+    "laptop": {
+      "textures": "textures/items/laptop"
+    },
+    "piano": {
+      "textures": "textures/items/piano"
+    },
+    "armchairs": {
+      "textures": "textures/items/armchairs"
+    },
+    "chair": {
+      "textures": "textures/items/chair"
+    },
+    "big_table": {
+      "textures": "textures/items/big_table"
+    },
+    "small_table": {
+      "textures": "textures/items/small_table"
+    },
+    "drone": {
+      "textures": "textures/items/drone"
+    },
+    "colorful_gifts": {
+      "textures": "textures/items/colorful_gifts"
+    },
+    "pe:fireresistancepill": {
+      "textures": "textures/items/pamobile/pe_fireresistancepill"
+    },
+    "pe:heroofthevillagepill": {
+      "textures": "textures/items/pamobile/pe_heroofthevillagepill"
+    },
+    "pe:regenerationpill": {
+      "textures": "textures/items/pamobile/pe_regenerationpill"
+    },
+    "pe:resistancepill": {
+      "textures": "textures/items/pamobile/pe_resistancepill"
+    },
+    "pe:waterbreathingpill": {
+      "textures": "textures/items/pamobile/pe_waterbreathingpill"
+    },
+    "pe:invisibilitypill": {
+      "textures": "textures/items/pamobile/pe_invisibilitypill"
+    },
+    "pe:speedpill": {
+      "textures": "textures/items/pamobile/pe_speedpill"
+    },
+    "pe:strenstance": {
+      "textures": "textures/items/pamobile/pe_strenstance"
+    },
+    "pe:nightvisionpill": {
+      "textures": "textures/items/pamobile/pe_nightvisionpill"
+    },
+    "pe:strenght": {
+      "textures": "textures/items/pamobile/pe_strenght"
+    },
+    "pe:nightandvillagepill": {
+      "textures": "textures/items/pamobile/pe_nightandvillagepill"
+    },
+    "pe:strenightpill": {
+      "textures": "textures/items/pamobile/pe_strenightpill"
+    },
+    "pe:speederationpill": {
+      "textures": "textures/items/pamobile/pe_speederationpill"
+    },
+    "pe:waterresistancepill": {
+      "textures": "textures/items/pamobile/pe_waterresistancepill"
+    },
+    "pe:waterandfire": {
+      "textures": "textures/items/pamobile/pe_waterandfire"
+    },
+    "pe:invisiblefirepill": {
+      "textures": "textures/items/pamobile/pe_invisiblefirepill"
+    },
+    "pe:speedibility": {
+      "textures": "textures/items/pamobile/pe_speedibility"
+    },
+    "pe:heroofregenerationpill": {
+      "textures": "textures/items/pamobile/pe_heroofregenerationpill"
+    },
+    "pe:slowfallingpill": {
+      "textures": "textures/items/pamobile/pe_slowfallingpill"
+    },
+    "pe:levitationpill": {
+      "textures": "textures/items/pamobile/pe_levitationpill"
+    },
+    "pe:levitationfallingpill": {
+      "textures": "textures/items/pamobile/pe_levitationfallingpill"
+    },
+    "pe:jumpfallingpill": {
+      "textures": "textures/items/pamobile/pe_jumpfallingpill"
+    },
+    "pe:removeeffectspill": {
+      "textures": "textures/items/pamobile/pe_removeeffectspill"
+    },
+    "pe:jumpboostpill": {
+      "textures": "textures/items/pamobile/pe_jumpboostpill"
+    },
+    "pe:nightresistancepill": {
+      "textures": "textures/items/pamobile/pe_nightresistancepill"
+    },
+    "pe:specialpillone": {
+      "textures": "textures/items/pamobile/pe_specialpillone"
+    },
+    "pe:basepill": {
+      "textures": "textures/items/pamobile/pe_basepill"
+    },
+    "pe:nightinvisibilitypill": {
+      "textures": "textures/items/pamobile/pe_nightinvisibilitypill"
+    },
+    "pe:jumpinvisibilitypill": {
+      "textures": "textures/items/pamobile/pe_jumpinvisibilitypill"
+    }
+  }
+}

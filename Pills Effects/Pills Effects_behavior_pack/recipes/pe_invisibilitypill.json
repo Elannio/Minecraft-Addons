@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "invisibilitypill_0fb33827"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CBC"
+    ],
+    "key": {
+      "A": {
+        "item": "pe:basepill",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 19
+      },
+      "C": {
+        "item": "minecraft:fermented_spider_eye",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pe:invisibilitypill",
+      "count": 2
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:structure_template_feature": {
+    "description": {
+      "identifier": "minecraft:stonewithchest_feature_mcstructure"
+    },
+    "structure_name": "mystructure:stonewithchest",
+    "adjustment_radius": 8,
+    "facing_direction": "random",
+    "constraints": {
+      "grounded": {}
+    }
+  }
+}

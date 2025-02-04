@@ -1,0 +1,41 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "jumpinvisibilitypill_96d938f6"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CDE"
+    ],
+    "key": {
+      "A": {
+        "item": "pe:basepill",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 10
+      },
+      "C": {
+        "item": "minecraft:rabbit_hide",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:dye",
+        "data": 19
+      },
+      "E": {
+        "item": "minecraft:fermented_spider_eye",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pe:jumpinvisibilitypill",
+      "count": 1
+    }
+  }
+}

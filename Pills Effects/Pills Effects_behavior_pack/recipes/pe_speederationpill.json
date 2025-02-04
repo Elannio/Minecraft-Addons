@@ -1,0 +1,41 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "speederationpill_2bf22525"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CDE"
+    ],
+    "key": {
+      "A": {
+        "item": "pe:basepill",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 1
+      },
+      "C": {
+        "item": "minecraft:glowstone_dust",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:dye",
+        "data": 17
+      },
+      "E": {
+        "item": "minecraft:brown_mushroom",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pe:speederationpill",
+      "count": 2
+    }
+  }
+}

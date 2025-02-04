@@ -1,0 +1,54 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "recipes_64204999"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "gf:diamondnugget",
+        "data": 0
+      },
+      {
+        "item": "gf:diamondnugget",
+        "data": 0
+      },
+      {
+        "item": "gf:diamondnugget",
+        "data": 0
+      },
+      {
+        "item": "gf:diamondnugget",
+        "data": 0
+      },
+      {
+        "item": "gf:diamondnugget",
+        "data": 0
+      },
+      {
+        "item": "gf:diamondnugget",
+        "data": 0
+      },
+      {
+        "item": "gf:diamondnugget",
+        "data": 0
+      },
+      {
+        "item": "gf:diamondnugget",
+        "data": 0
+      },
+      {
+        "item": "gf:diamondnugget",
+        "data": 0
+      }
+    ],
+    "result": {
+      "item": "minecraft:diamond",
+      "count": 1,
+      "data": 0
+    }
+  }
+}

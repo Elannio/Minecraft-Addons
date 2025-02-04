@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This addon add new flowers for yout minecraft by Mushroom",
+    "name": "Ore Flowers",
+    "uuid": "fe00384a-d734-44bd-a862-912dbcee9b2b",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon add new flowers for yout minecraft by Mushroom",
+      "type": "data",
+      "uuid": "b3c2ef13-2333-4ac2-8995-bcc91aa0b647",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "a1dc3986-7ed3-4626-8909-4367f2c4cc42",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

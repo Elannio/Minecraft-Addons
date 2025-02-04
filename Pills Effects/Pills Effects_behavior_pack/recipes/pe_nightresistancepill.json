@@ -1,0 +1,41 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nightresistancepill_c1eb56d1"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CDE"
+    ],
+    "key": {
+      "A": {
+        "item": "pe:basepill",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 18
+      },
+      "C": {
+        "item": "minecraft:spider_eye",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:dye",
+        "data": 8
+      },
+      "E": {
+        "item": "minecraft:carrot",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pe:nightresistancepill",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "ob_blockofdiamond": {
+      "textures": [
+        "textures/blocks/ob_blockofdiamond"
+      ]
+    },
+    "ob_blockofcopper": {
+      "textures": [
+        "textures/blocks/ob_blockofcopper"
+      ]
+    },
+    "ob_blockofiron": {
+      "textures": [
+        "textures/blocks/ob_blockofiron"
+      ]
+    },
+    "ob_blockofgold": {
+      "textures": [
+        "textures/blocks/ob_blockofgold"
+      ]
+    },
+    "ob_blockofredstone": {
+      "textures": [
+        "textures/blocks/ob_blockofredstone"
+      ]
+    },
+    "ob_blockofcoal": {
+      "textures": [
+        "textures/blocks/ob_blockofcoal"
+      ]
+    },
+	"ob_blockofnetherite": {
+      "textures": [
+        "textures/blocks/ob_blockofnetherite"
+      ]
+    },
+	"ob_blockoflapislazuli": {
+      "textures": [
+        "textures/blocks/ob_blockoflapislazuli"
+      ]
+    },
+	"ob_whitewool": {
+      "textures": [
+        "textures/blocks/ob_whitewool"
+      ]
+    },
+	"ob_sponge": {
+      "textures": [
+        "textures/blocks/ob_sponge"
+      ]
+    },
+	"ob_bookshelf": {
+      "textures": [
+        "textures/blocks/ob_bookshelf"
+      ]
+    },
+	"ob_honeycombblock": {
+      "textures": [
+        "textures/blocks/ob_honeycombblock"
+      ]
+    },
+	"ob_targetside": {
+      "textures": [
+        "textures/blocks/ob_targetside"
+      ]
+    },
+	"ob_targettop": {
+      "textures": [
+        "textures/blocks/ob_targettop"
+      ]
+    },
+	"ob_target": {
+      "textures": [
+        "textures/blocks/ob_target"
+      ]
+    },
+	"ob_endstone": {
+      "textures": [
+        "textures/blocks/ob_endstone"
+      ]
+    },
+	"ob_glowstone": {
+      "textures": [
+        "textures/blocks/ob_glowstone"
+      ]
+    },
+	"ob_woolcoloredlightblue": {
+      "textures": [
+        "textures/blocks/ob_woolcoloredlightblue"
+      ]
+    },
+	"ob_woolcoloredlime": {
+      "textures": [
+        "textures/blocks/ob_woolcoloredlime"
+      ]
+    },
+	"ob_woolcoloredmagenta": {
+      "textures": [
+        "textures/blocks/ob_woolcoloredmagenta"
+      ]
+    },
+	"ob_woolcoloredorange": {
+      "textures": [
+        "textures/blocks/ob_woolcoloredorange"
+      ]
+    },
+	"ob_woolcoloredpink": {
+      "textures": [
+        "textures/blocks/ob_woolcoloredpink"
+      ]
+    },
+	"ob_woolcoloredpurple": {
+      "textures": [
+        "textures/blocks/ob_woolcoloredpurple"
+      ]
+    },
+	"ob_woolcoloredred": {
+      "textures": [
+        "textures/blocks/ob_woolcoloredred"
+      ]
+    },
+	"ob_woolcoloredsilver": {
+      "textures": [
+        "textures/blocks/ob_woolcoloredsilver"
+      ]
+    },
+	"ob_slimeblock": {
+      "textures": [
+        "textures/blocks/ob_slimeblock"
+      ]
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "egg_camel": {
+      "textures": "textures/items/egg_camel"
+    },
+    "egg_lion": {
+      "textures": "textures/items/egg_lion"
+    },
+    "egg_penguin": {
+      "textures": "textures/items/egg_penguin"
+    },
+    "egg_tiger": {
+      "textures": "textures/items/egg_tiger"
+    },
+    "egg_elephant": {
+      "textures": "textures/items/egg_elephant"
+    },
+    "egg_deer": {
+      "textures": "textures/items/egg_deer"
+    },
+    "egg_panther": {
+      "textures": "textures/items/egg_panther"
+    },
+    "egg_frog": {
+      "textures": "textures/items/egg_frog"
+    },
+    "egg_crocodile": {
+      "textures": "textures/items/egg_crocodile"
+    },
+    "egg_mouse": {
+      "textures": "textures/items/egg_mouse"
+    },
+    "gallardo": {
+      "textures": "textures/items/gallardo"
+    },
+    "bench": {
+      "textures": "textures/items/bench"
+    },
+    "christmas_tree": {
+      "textures": "textures/items/christmas_tree"
+    },
+    "tivi": {
+      "textures": "textures/items/tivi"
+    },
+    "closet": {
+      "textures": "textures/items/closet"
+    },
+    "laptop": {
+      "textures": "textures/items/laptop"
+    },
+    "piano": {
+      "textures": "textures/items/piano"
+    },
+    "armchairs": {
+      "textures": "textures/items/armchairs"
+    },
+    "chair": {
+      "textures": "textures/items/chair"
+    },
+    "big_table": {
+      "textures": "textures/items/big_table"
+    },
+    "small_table": {
+      "textures": "textures/items/small_table"
+    },
+    "drone": {
+      "textures": "textures/items/drone"
+    },
+    "colorful_gifts": {
+      "textures": "textures/items/colorful_gifts"
+    },
+    "gf_redstoneflower": {
+      "textures": "textures/items/gf_redstoneflower"
+    },
+    "gf_diamondflower": {
+      "textures": "textures/items/gf_diamondflower"
+    },
+    "gf_emeraldflower": {
+      "textures": "textures/items/gf_emeraldflower"
+    },
+    "gf_goldenflower": {
+      "textures": "textures/items/gf_goldenflower"
+    },
+    "gf_ironflower": {
+      "textures": "textures/items/gf_ironflower"
+    },
+    "gf_coalflower": {
+      "textures": "textures/items/gf_coalflower"
+    },
+    "gf_sworddiamondflower": {
+      "textures": "textures/items/pamobile/gf_sworddiamondflower"
+    },
+    "gf_swordemeraldflower": {
+      "textures": "textures/items/pamobile/gf_swordemeraldflower"
+    },
+    "gf_swordironflower": {
+      "textures": "textures/items/pamobile/gf_swordironflower"
+    },
+    "gf_swordcoalflower": {
+      "textures": "textures/items/pamobile/gf_swordcoalflower"
+    },
+    "gf_swordgoldenflower": {
+      "textures": "textures/items/pamobile/gf_swordgoldenflower"
+    },
+    "gf_swordredstoneflower": {
+      "textures": "textures/items/pamobile/gf_swordredstoneflower"
+    },
+    "gf:redstonenugget": {
+      "textures": "textures/items/pamobile/gf_redstonenugget"
+    },
+    "gf:diamondnugget": {
+      "textures": "textures/items/pamobile/gf_diamondnugget"
+    },
+    "gf:emeraldnugget": {
+      "textures": "textures/items/pamobile/gf_emeraldnugget"
+    },
+    "gf:coalnugget": {
+      "textures": "textures/items/pamobile/gf_coalnugget"
+    },
+    "gf:goldenpotion": {
+      "textures": "textures/items/pamobile/gf_goldenpotion"
+    },
+    "gf:emeraldpotion": {
+      "textures": "textures/items/pamobile/gf_emeraldpotion"
+    },
+    "gf:diamondpotion": {
+      "textures": "textures/items/pamobile/gf_diamondpotion"
+    },
+    "gf:coalpotion": {
+      "textures": "textures/items/pamobile/gf_coalpotion"
+    },
+    "gf:redstonepotion": {
+      "textures": "textures/items/pamobile/gf_redstonepotion"
+    },
+    "gf_diamondflower": {
+      "textures": "textures/items/gf_diamondflower"
+    },
+    "gf_emeraldflower": {
+      "textures": "textures/items/gf_emeraldflower"
+    },
+    "gf_goldenflower": {
+      "textures": "textures/items/gf_goldenflower"
+    },
+    "gf_ironflower": {
+      "textures": "textures/items/gf_ironflower"
+    },
+    "gf_redstoneflower": {
+      "textures": "textures/items/gf_redstoneflower"
+    },
+    "gf_coalflower": {
+      "textures": "textures/items/gf_coalflower"
+    },
+    "gf_goldenplant": {
+      "textures": "textures/items/gf_goldenplant"
+    },
+    "gf:ironpotion": {
+      "textures": "textures/items/pamobile/gf_ironpotion"
+    },
+    "gf_coalplant": {
+      "textures": "textures/items/gf_coalplant"
+    },
+    "gf_redstoneplant": {
+      "textures": "textures/items/gf_redstoneplant"
+    },
+    "gf_diamondplant": {
+      "textures": "textures/items/gf_diamondplant"
+    },
+    "gf_ironplant": {
+      "textures": "textures/items/gf_ironplant"
+    },
+    "gf_emeraldplant": {
+      "textures": "textures/items/gf_emeraldplant"
+    }
+  }
+}
