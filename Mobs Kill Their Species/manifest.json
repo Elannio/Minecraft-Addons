@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "Monsters dont like the same of your species. by LanDay",
+    "name": "Mobs Kill Their Species",
+    "uuid": "3d042112-133a-4b19-afbc-ef3e563327bd",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Monsters dont like the same of your species. by LanDay",
+      "type": "data",
+      "uuid": "c47e47de-e521-40f0-aab3-9e38d3961fce",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
