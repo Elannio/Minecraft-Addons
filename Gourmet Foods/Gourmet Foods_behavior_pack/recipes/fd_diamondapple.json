@@ -1,0 +1,58 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "diamondapple_4de663fc"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:gold_ingot",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:diamond",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:coal",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:copper_ingot",
+        "data": 0
+      },
+      "E": {
+        "item": "minecraft:apple",
+        "data": 0
+      },
+      "F": {
+        "item": "minecraft:netherite_ingot",
+        "data": 0
+      },
+      "G": {
+        "item": "minecraft:emerald",
+        "data": 0
+      },
+      "H": {
+        "item": "minecraft:redstone",
+        "data": 0
+      },
+      "I": {
+        "item": "minecraft:iron_ingot",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "fd:diamondapple",
+      "count": 1
+    }
+  }
+}

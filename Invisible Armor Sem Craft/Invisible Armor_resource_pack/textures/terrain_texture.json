@@ -1,0 +1,38 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "ia_fgoldenore": {
+      "textures": [
+        "textures/blocks/ia_fgoldenore"
+      ]
+    },
+    "ia_fdiamondore": {
+      "textures": [
+        "textures/blocks/ia_fdiamondore"
+      ]
+    },
+    "ia_fironblock": {
+      "textures": [
+        "textures/blocks/ia_fironblock"
+      ]
+    },
+    "ia_fcoppeblock": {
+      "textures": [
+        "textures/blocks/ia_fcoppeblock"
+      ]
+    },
+    "ia_fnetheriteblock": {
+      "textures": [
+        "textures/blocks/ia_fnetheriteblock"
+      ]
+    },
+    "ia_fchainmailblock": {
+      "textures": [
+        "textures/blocks/ia_fchainmailblock"
+      ]
+    }
+  }
+}

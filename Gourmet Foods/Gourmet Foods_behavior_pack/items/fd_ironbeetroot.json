@@ -1,0 +1,42 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "fd:ironbeetroot",
+      "category": "items"
+    },
+    "components": {
+      "minecraft:hand_equipped": false,
+      "minecraft:max_stack_size": 16,
+      "minecraft:foil": false,
+      "minecraft:stack_by_data": true,
+      "minecraft:food": {
+        "saturation_modifier": "normal",
+        "nutrition": 12,
+        "can_always_eat": true,
+        "effects": [
+          {
+            "name": "regeneration",
+            "chance": 1,
+            "duration": 8,
+            "amplifier": 1
+          },
+          {
+            "name": "resistance",
+            "chance": 1,
+            "duration": 120,
+            "amplifier": 1
+          },
+          {
+            "name": "speed",
+            "chance": 1,
+            "duration": 100,
+            "amplifier": 1
+          }
+        ],
+        "remove_effects": []
+      },
+      "minecraft:use_duration": 32
+    }
+  }
+}

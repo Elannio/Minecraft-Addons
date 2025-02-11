@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "copperpotato_506f243f"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:raw_copper",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:potato",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "fd:copperpotato",
+      "count": 1
+    }
+  }
+}

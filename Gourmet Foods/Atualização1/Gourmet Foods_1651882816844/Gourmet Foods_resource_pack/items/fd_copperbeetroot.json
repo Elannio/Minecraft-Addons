@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "fd:copperbeetroot",
+      "category": "Nature"
+    },
+    "components": {
+      "minecraft:icon": "fd:copperbeetroot",
+      "minecraft:use_animation": "eat",
+      "minecraft:render_offsets": "apple"
+    }
+  }
+}

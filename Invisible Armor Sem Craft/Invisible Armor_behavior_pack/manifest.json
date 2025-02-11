@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This addon add invisible armors  with armors in game.  by Landay",
+    "name": "Invisible Armor",
+    "uuid": "eb77540c-d326-45a2-903d-ff12197eb95f",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon add invisible armors  with armors in game.  by Landay",
+      "type": "data",
+      "uuid": "91f03dc8-1de7-466c-bf62-72423027c7eb",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "87dcfa26-f08a-43fb-9ab0-e8213db820e3",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

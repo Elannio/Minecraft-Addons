@@ -1,0 +1,1 @@
+say treefour | treethree | portal | treeone | battlehouse | amethystaltar | battletower | fountain | treehouse | camping | froghouse | honeyaltar | houseprision | pole | treetwo | scarecrow | hobbithouse | 

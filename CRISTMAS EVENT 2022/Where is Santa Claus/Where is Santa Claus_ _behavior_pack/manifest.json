@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This addon add new structures and items about christmas for your minecraft.  by Mushroom",
+    "name": "Where is Santa Claus? ",
+    "uuid": "c89cf5d5-c3b4-40cb-bb7d-b9405d5a67e7",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon add new structures and items about christmas for your minecraft.  by Mushroom",
+      "type": "data",
+      "uuid": "8c675089-c2a3-44ea-a794-c68ab8af5f6d",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "acb580cf-b9a0-44f1-94ba-8d14c05bd7ca",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

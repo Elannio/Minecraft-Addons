@@ -1,0 +1,1721 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 3,
+        "max": 5
+      },
+      "entries": [
+				{
+                    "type": "item",
+                    "name": "minecraft:red_flower",
+                    "functions": [
+                    {
+                    "function": "set_data",
+                    "data": 0
+                    }
+                  ],
+                    "weight": 7
+                },
+								{
+                    "type": "item",
+                    "name": "minecraft:red_flower",
+                    "functions": [
+                    {
+                    "function": "set_data",
+                    "data": 1
+                    }
+                  ],
+                    "weight": 7
+                },
+								{
+                    "type": "item",
+                    "name": "minecraft:red_flower",
+                    "functions": [
+                    {
+                    "function": "set_data",
+                    "data": 2
+                    }
+                  ],
+                    "weight": 7
+                },
+								{
+                    "type": "item",
+                    "name": "minecraft:red_flower",
+                    "functions": [
+                    {
+                    "function": "set_data",
+                    "data": 3
+                    }
+                  ],
+                    "weight": 7
+                },
+								{
+                    "type": "item",
+                    "name": "minecraft:red_flower",
+                    "functions": [
+                    {
+                    "function": "set_data",
+                    "data": 4
+                    }
+                  ],
+                    "weight": 7
+                },
+								{
+                    "type": "item",
+                    "name": "minecraft:red_flower",
+                    "functions": [
+                    {
+                    "function": "set_data",
+                    "data": 5
+                    }
+                  ],
+                    "weight": 7
+                },
+								{
+                    "type": "item",
+                    "name": "minecraft:red_flower",
+                    "functions": [
+                    {
+                    "function": "set_data",
+                    "data": 6
+                    }
+                  ],
+                    "weight": 7
+                },
+								{
+                    "type": "item",
+                    "name": "minecraft:red_flower",
+                    "functions": [
+                    {
+                    "function": "set_data",
+                    "data": 7
+                    }
+                  ],
+                    "weight": 7
+                },
+								{
+                    "type": "item",
+                    "name": "minecraft:red_flower",
+                    "functions": [
+                    {
+                    "function": "set_data",
+                    "data": 8
+                    }
+                  ],
+                    "weight": 7
+                },
+								{
+                    "type": "item",
+                    "name": "minecraft:red_flower",
+                    "functions": [
+                    {
+                    "function": "set_data",
+                    "data": 9
+                    }
+                  ],
+                    "weight": 7
+                },
+								{
+                    "type": "item",
+                    "name": "minecraft:red_flower",
+                    "functions": [
+                    {
+                    "function": "set_data",
+                    "data": 10
+                    }
+                  ],
+                    "weight": 7
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:sapling",
+                    "functions": [
+                    {
+                    "function": "set_data",
+                    "data": 0
+                    }
+                  ],
+                    "weight": 7
+                },
+								{
+                    "type": "item",
+                    "name": "minecraft:sapling",
+                    "functions": [
+                    {
+                    "function": "set_data",
+                    "data": 1
+                    }
+                  ],
+                    "weight": 7
+                },
+								{
+                    "type": "item",
+                    "name": "minecraft:sapling",
+                    "functions": [
+                    {
+                    "function": "set_data",
+                    "data": 2
+                    }
+                  ],
+                    "weight": 7
+                },
+								{
+                    "type": "item",
+                    "name": "minecraft:sapling",
+                    "functions": [
+                    {
+                    "function": "set_data",
+                    "data": 3
+                    }
+                  ],
+                    "weight": 7
+                },
+								{
+                    "type": "item",
+                    "name": "minecraft:sapling",
+                    "functions": [
+                    {
+                    "function": "set_data",
+                    "data": 4
+                    }
+                  ],
+                    "weight": 7
+                },
+								{
+                    "type": "item",
+                    "name": "minecraft:sapling",
+                    "functions": [
+                    {
+                    "function": "set_data",
+                    "data": 5
+                    }
+                  ],
+                    "weight": 7
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:dandelion",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:poppy",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:blue_orchid",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:allium",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:azure_bluet",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:tulip",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:oxeye_daisy",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:cornflower",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:lily_of_the_valley",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:wither_rose",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:sugar",
+                    "weight": 10
+                },                
+				{
+                    "type": "item",
+                    "name": "minecraft:sunflower",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:lilac",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:rose_bush",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:peony",
+                    "weight": 10
+                },                
+				{
+                    "type": "item",
+                    "name": "minecraft:red_tulip",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:orange_tulip",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:white_tulip",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:beetroot_seeds",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:bamboo",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:big_dripleaf",
+                    "weight": 10
+                },                
+				{
+                    "type": "item",
+                    "name": "minecraft:cactus",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:carrot",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:glow_berries",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:chorus_flower",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:cocoa_beans",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:dead_bush",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:snowy_grass_block",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:azalea_leaves",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:flowering_azalea_leaves",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:lily_pad",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:melon",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:melon_seeds",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:potato",
+                    "weight": 10
+                },                
+				{
+                    "type": "item",
+                    "name": "minecraft:pumpkin",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:pumpkin_seeds",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:oak_sapling",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:spruce_sapling",
+                    "weight": 10
+                },                
+				{
+                    "type": "item",
+                    "name": "minecraft:acacia_sapling",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:dark_oak_sapling",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:birch_sapling",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:jungle_sapling",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:seagrass",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:spore_blossom",
+                    "weight": 10
+                },                
+				{
+                    "type": "item",
+                    "name": "minecraft:sugar_cane",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:sweet_berries",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:vines",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:wheat",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:apple",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:beetroot",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:beetroot_seeds",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:chorus_fruit",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:poisonous_potato",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:wheat_seeds",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:kelp",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:sponge",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:crimson_fungus",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:warped_fungus",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:brown_mushroom",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:red_mushroom",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:nether_wart",
+                    "weight": 10
+                },                
+				{
+                    "type": "item",
+                    "name": "minecraft:crimson_roots",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:warped_roots",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:shroomlight",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:twisting_vines",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:baked_potato",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:beetroot_soup",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:cake",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:cooked_chicken",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:cooked_cod",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:bread",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:cooked_mutton",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:cooked_porkchop",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:cooked_rabbit",
+                    "weight": 10
+                },                
+				{
+                    "type": "item",
+                    "name": "minecraft:cooked_salmon",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:cookie",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:enchanted_golden_apple",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:golden_apple",
+                    "weight": 10
+                },                
+				{
+                    "type": "item",
+                    "name": "minecraft:golden_carrot",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:honey_bottle",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:melon_slice",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:mushroom_stew",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:pumpkin_pie",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:rabbit_stew",
+                    "weight": 10
+                },                
+				{
+                    "type": "item",
+                    "name": "minecraft:raw_beef",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:raw_chicken",
+                    "weight": 10
+                },
+								{
+                    "type": "item",
+                    "name": "minecraft:raw_cod",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:raw_mutton",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:raw_porkchop",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:raw_rabbit",
+                    "weight": 10
+                },                
+				{
+                    "type": "item",
+                    "name": "minecraft:steak",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:milk_bucket",
+                    "weight": 10
+                },
+                {
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:book"
+                },
+                {
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:trident"
+                },
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 0
+				   }
+				],
+				   "weight": 5
+				},
+							{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 1
+				   }
+				],
+				   "weight": 5
+				},
+					{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 2
+				   }
+				],
+				   "weight": 5
+				},
+							{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 3
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 4
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 5
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 6
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 7
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 8
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 9
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 5
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 11
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 12
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 13
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 14
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 15
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 16
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 17
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 18
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 19
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 20
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 21
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 22
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 23
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 24
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 25
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 26
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 27
+				   }
+				],
+				   "weight": 5
+				},				{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 28
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 29
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 30
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 31
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 32
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 33
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 34
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 35
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 36
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 37
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 38
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 39
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 40
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 41
+				   }
+				],
+				   "weight": 5
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 42
+				   }
+				],
+				   "weight": 5
+				},
+			    {
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:bow"
+                },
+				{
+                    "type": "item",
+                    "weight": 7,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:diamond_roe"
+                },
+				{
+                    "type": "item",
+                    "weight": 2,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:iron_roe"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:wooden_roe"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:stone_roe"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:golden_roe"
+                },
+				{
+                    "type": "item",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:netherite_roe"
+                },
+				{
+                    "type": "item",
+                    "weight": 2,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:diamond_shovel"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:iron_shovel"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:wooden_shovel"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:stone_shovel"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:golden_shovel"
+                },
+				{
+                    "type": "item",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:netherite_shovel"
+                },
+				{
+                    "type": "item",
+                    "weight": 2,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:diamond_pickaxe"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:iron_pickaxe"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:wooden_pickaxe"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:stone_pickaxe"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:golden_pickaxe"
+                },
+				{
+                    "type": "item",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:netherite_pickaxe"
+                },
+				{
+                    "type": "item",
+                    "weight": 2,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:diamond_sword"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:iron_sword"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:wooden_sword"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:stone_sword"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:golden_sword"
+                },
+				{
+                    "type": "item",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:netherite_sword"
+                },
+				{
+                    "type": "item",
+                    "weight": 2,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:diamond_axe"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:iron_axe"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:wooden_axe"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:stone_axe"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:golden_axe"
+                },
+				{
+                    "type": "item",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:netherite_axe"
+                },
+				{
+                    "type": "item",
+                    "weight": 2,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:diamond_helmet"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:iron_helmet"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:leather_helmet"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:chainmail_helmet"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:golden_helmet"
+                },
+				{
+                    "type": "item",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:netherite_helmet"
+                },
+				{
+                    "type": "item",
+                    "weight": 2,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:diamond_chestplate"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:iron_chestplate"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:leather_chestplate"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:chainmail_chestplate"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:golden_chestplate"
+                },
+				{
+                    "type": "item",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:netherite_chestplate"
+                },
+				{
+                    "type": "item",
+                    "weight": 2,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:diamond_leggings"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:iron_leggings"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:leather_leggings"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:chainmail_leggings"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:golden_leggings"
+                },
+				{
+                    "type": "item",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:netherite_leggings"
+                },
+				{
+                    "type": "item",
+                    "weight": 2,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:diamond_boots"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:iron_boots"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:leather_boots"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:chainmail_boots"
+                },
+				{
+                    "type": "item",
+                    "weight": 5,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:golden_boots"
+                },
+				{
+                    "type": "item",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:netherite_boots"
+                },
+				{
+                    "type": "item",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:turtle_helmet"
+                },
+                {
+                    "type": "item",
+                    "weight": 6,
+                    "functions": [
+                        {
+                            "function": "enchant_randomly"
+                        }
+                    ],
+                    "name": "minecraft:fishing_rod"
+                }
+            ]
+        }
+    ]
+}

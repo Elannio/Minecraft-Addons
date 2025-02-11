@@ -1,0 +1,48 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "fd:emeraldmelon",
+      "category": "items"
+    },
+    "components": {
+      "minecraft:hand_equipped": false,
+      "minecraft:max_stack_size": 16,
+      "minecraft:foil": false,
+      "minecraft:stack_by_data": true,
+      "minecraft:food": {
+        "saturation_modifier": "high",
+        "nutrition": 18,
+        "can_always_eat": true,
+        "effects": [
+          {
+            "name": "village_hero",
+            "chance": 1,
+            "duration": 180,
+            "amplifier": 1
+          },
+          {
+            "name": "invisibility",
+            "chance": 1,
+            "duration": 60,
+            "amplifier": 1
+          },
+          {
+            "name": "regeneration",
+            "chance": 1,
+            "duration": 17,
+            "amplifier": 1
+          },
+          {
+            "name": "strength",
+            "chance": 1,
+            "duration": 180,
+            "amplifier": 1
+          }
+        ],
+        "remove_effects": []
+      },
+      "minecraft:use_duration": 32
+    }
+  }
+}

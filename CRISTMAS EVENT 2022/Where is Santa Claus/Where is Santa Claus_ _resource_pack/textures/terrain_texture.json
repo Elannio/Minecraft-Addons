@@ -1,0 +1,62 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "ce_giftred_up": {
+      "textures": "textures/blocks/ce_giftred_up"
+    },
+    "ce_giftgreen_up": {
+      "textures": "textures/blocks/ce_giftgreen_up"
+    },
+    "ce_gifrblack_up": {
+      "textures": "textures/blocks/ce_gifrblack_up"
+    },
+    "ce_giftred_down": {
+      "textures": "textures/blocks/ce_giftred_down"
+    },
+    "ce_giftgreen_down": {
+      "textures": "textures/blocks/ce_giftgreen_down"
+    },
+    "ce_gifrblack_down": {
+      "textures": "textures/blocks/ce_gifrblack_down"
+    },
+    "ce_giftred_north": {
+      "textures": "textures/blocks/ce_giftred_north"
+    },
+    "ce_giftgreen_north": {
+      "textures": "textures/blocks/ce_giftgreen_north"
+    },
+    "ce_gifrblack_north": {
+      "textures": "textures/blocks/ce_gifrblack_north"
+    },
+    "ce_giftred_south": {
+      "textures": "textures/blocks/ce_giftred_south"
+    },
+    "ce_giftgreen_south": {
+      "textures": "textures/blocks/ce_giftgreen_south"
+    },
+    "ce_gifrblack_south": {
+      "textures": "textures/blocks/ce_gifrblack_south"
+    },
+    "ce_giftred_east": {
+      "textures": "textures/blocks/ce_giftred_east"
+    },
+    "ce_giftgreen_east": {
+      "textures": "textures/blocks/ce_giftgreen_east"
+    },
+    "ce_gifrblack_east": {
+      "textures": "textures/blocks/ce_gifrblack_east"
+    },
+    "ce_giftred_west": {
+      "textures": "textures/blocks/ce_giftred_west"
+    },
+    "ce_giftgreen_west": {
+      "textures": "textures/blocks/ce_giftgreen_west"
+    },
+    "ce_gifrblack_west": {
+      "textures": "textures/blocks/ce_gifrblack_west"
+    }
+  }
+}

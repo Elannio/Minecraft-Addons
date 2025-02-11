@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "sugarcaneblack_fed1fcbc"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "B B",
+      "A  "
+    ],
+    "key": {
+      "A": {
+        "item": "ce:sugarblack",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:sugar",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "ce:sugarcaneblack",
+      "count": 1
+    }
+  }
+}

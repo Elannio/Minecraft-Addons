@@ -1,0 +1,31 @@
+{
+  "ia:fgoldenore": {
+    "textures": "ia_fgoldenore",
+    "sound": "metal"
+  },
+  "ia:fdiamondore": {
+    "textures": "ia_fdiamondore",
+    "sound": "metal"
+  },
+  "ia:fironblock": {
+    "textures": "ia_fironblock",
+    "sound": "metal"
+  },
+  "ia:fcoppeblock": {
+    "textures": "ia_fcoppeblock",
+    "sound": "normal"
+  },
+  "ia:fnetheriteblock": {
+    "textures": "ia_fnetheriteblock",
+    "sound": "metal"
+  },
+  "ia:fchainmailblock": {
+    "textures": "ia_fchainmailblock",
+    "sound": "metal"
+  },
+  "format_version": [
+    1,
+    1,
+    0
+  ]
+}

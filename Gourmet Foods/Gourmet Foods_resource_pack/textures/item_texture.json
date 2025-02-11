@@ -1,0 +1,174 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "egg_camel": {
+      "textures": "textures/items/egg_camel"
+    },
+    "egg_lion": {
+      "textures": "textures/items/egg_lion"
+    },
+    "egg_penguin": {
+      "textures": "textures/items/egg_penguin"
+    },
+    "egg_tiger": {
+      "textures": "textures/items/egg_tiger"
+    },
+    "egg_elephant": {
+      "textures": "textures/items/egg_elephant"
+    },
+    "egg_deer": {
+      "textures": "textures/items/egg_deer"
+    },
+    "egg_panther": {
+      "textures": "textures/items/egg_panther"
+    },
+    "egg_frog": {
+      "textures": "textures/items/egg_frog"
+    },
+    "egg_crocodile": {
+      "textures": "textures/items/egg_crocodile"
+    },
+    "egg_mouse": {
+      "textures": "textures/items/egg_mouse"
+    },
+    "gallardo": {
+      "textures": "textures/items/gallardo"
+    },
+    "bench": {
+      "textures": "textures/items/bench"
+    },
+    "christmas_tree": {
+      "textures": "textures/items/christmas_tree"
+    },
+    "tivi": {
+      "textures": "textures/items/tivi"
+    },
+    "closet": {
+      "textures": "textures/items/closet"
+    },
+    "laptop": {
+      "textures": "textures/items/laptop"
+    },
+    "piano": {
+      "textures": "textures/items/piano"
+    },
+    "armchairs": {
+      "textures": "textures/items/armchairs"
+    },
+    "chair": {
+      "textures": "textures/items/chair"
+    },
+    "big_table": {
+      "textures": "textures/items/big_table"
+    },
+    "small_table": {
+      "textures": "textures/items/small_table"
+    },
+    "drone": {
+      "textures": "textures/items/drone"
+    },
+    "colorful_gifts": {
+      "textures": "textures/items/colorful_gifts"
+    },
+    "fd:goldenpotato": {
+      "textures": "textures/items/pamobile/fd_goldenpotato"
+    },
+    "fd:goldenbread": {
+      "textures": "textures/items/pamobile/fd_goldenbread"
+    },
+    "fd:goldenbeetroot": {
+      "textures": "textures/items/pamobile/fd_goldenbeetroot"
+    },
+    "fd:goldensweetberries": {
+      "textures": "textures/items/pamobile/fd_goldensweetberries"
+    },
+    "fd:diamondapple": {
+      "textures": "textures/items/pamobile/fd_diamondapple"
+    },
+    "fd:diamondmelonslice": {
+      "textures": "textures/items/pamobile/fd_diamondmelonslice"
+    },
+    "fd:diamondcarrot": {
+      "textures": "textures/items/pamobile/fd_diamondcarrot"
+    },
+    "fd:diamondapples": {
+      "textures": "textures/items/pamobile/fd_diamondapples"
+    },
+    "fd:diamondbeetroot": {
+      "textures": "textures/items/pamobile/fd_diamondbeetroot"
+    },
+    "fd:diamondbread": {
+      "textures": "textures/items/pamobile/fd_diamondbread"
+    },
+    "fd:diamondsweetberries": {
+      "textures": "textures/items/pamobile/fd_diamondsweetberries"
+    },
+    "fd:ironmelon": {
+      "textures": "textures/items/pamobile/fd_ironmelon"
+    },
+    "fd:ironapple": {
+      "textures": "textures/items/pamobile/fd_ironapple"
+    },
+    "fd:ironcarrot": {
+      "textures": "textures/items/pamobile/fd_ironcarrot"
+    },
+    "fd:ironpotato": {
+      "textures": "textures/items/pamobile/fd_ironpotato"
+    },
+    "fd:ironbread": {
+      "textures": "textures/items/pamobile/fd_ironbread"
+    },
+    "fd:ironbeetroot": {
+      "textures": "textures/items/pamobile/fd_ironbeetroot"
+    },
+    "fd:ironsweetberries": {
+      "textures": "textures/items/pamobile/fd_ironsweetberries"
+    },
+    "fd:emeraldmelon": {
+      "textures": "textures/items/pamobile/fd_emeraldmelon"
+    },
+    "fd:emeraldapple": {
+      "textures": "textures/items/pamobile/fd_emeraldapple"
+    },
+    "fd:emeraldcarrot": {
+      "textures": "textures/items/pamobile/fd_emeraldcarrot"
+    },
+    "fd:emeraldpotato": {
+      "textures": "textures/items/pamobile/fd_emeraldpotato"
+    },
+    "fd:emeraldbread": {
+      "textures": "textures/items/pamobile/fd_emeraldbread"
+    },
+    "fd:emeraldbeetroot": {
+      "textures": "textures/items/pamobile/fd_emeraldbeetroot"
+    },
+    "fd:emeraldsweetberries": {
+      "textures": "textures/items/pamobile/fd_emeraldsweetberries"
+    },
+    "fd:redstonemelon": {
+      "textures": "textures/items/pamobile/fd_redstonemelon"
+    },
+    "fd:redstoneapple": {
+      "textures": "textures/items/pamobile/fd_redstoneapple"
+    },
+    "fd:redstonecarrot": {
+      "textures": "textures/items/pamobile/fd_redstonecarrot"
+    },
+    "fd:redstonepotato": {
+      "textures": "textures/items/pamobile/fd_redstonepotato"
+    },
+    "fd:redstonebread": {
+      "textures": "textures/items/pamobile/fd_redstonebread"
+    },
+    "fd:redstonebeetroot": {
+      "textures": "textures/items/pamobile/fd_redstonebeetroot"
+    },
+    "fd:redstonesweetberries": {
+      "textures": "textures/items/pamobile/fd_redstonesweetberries"
+    },
+    "fd:diamondpotato": {
+      "textures": "textures/items/pamobile/fd_diamondpotato"
+    }
+  }
+}

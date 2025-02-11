@@ -1,0 +1,49 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "pa:villagerclaus",
+      "min_engine_version": "1.8.0",
+      "materials": {
+        "default": "villager"
+      },
+      "textures": {
+        "farmer": "textures/entity/pamobile/pa_villagerclaus",
+        "librarian": "textures/entity/pamobile/pa_villagerclaus",
+        "priest": "textures/entity/pamobile/pa_villagerclaus",
+        "smith": "textures/entity/pamobile/pa_villagerclaus",
+        "butcher": "textures/entity/pamobile/pa_villagerclaus"
+      },
+      "geometry": {
+        "default": "geometry.villager_v2"
+      },
+      "scripts": {
+        "scale": "0.9375"
+      },
+      "animations": {
+        "general": "animation.villager.general",
+        "look_at_target": "animation.common.look_at_target",
+        "move": "animation.villager.move",
+        "baby_transform": "animation.villager.baby_transform"
+      },
+      "animation_controllers": [
+        {
+          "general": "controller.animation.villager.general"
+        },
+        {
+          "move": "controller.animation.villager.move"
+        },
+        {
+          "baby": "controller.animation.villager.baby"
+        }
+      ],
+      "render_controllers": [
+        "controller.render.villager"
+      ],
+      "spawn_egg": {
+        "texture": "pa:villagerclaus",
+        "texture_index": 0
+      }
+    }
+  }
+}

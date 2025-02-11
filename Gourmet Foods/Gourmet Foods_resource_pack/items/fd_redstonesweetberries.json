@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "fd:redstonesweetberries",
+      "category": "Nature"
+    },
+    "components": {
+      "minecraft:icon": "fd:redstonesweetberries",
+      "minecraft:use_animation": "eat",
+      "minecraft:render_offsets": "apple"
+    }
+  }
+}

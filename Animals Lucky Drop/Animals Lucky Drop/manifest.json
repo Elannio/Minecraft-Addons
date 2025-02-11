@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This addon will make animals drop random game items by Winnie",
+    "name": "Animals Lucky Drop",
+    "uuid": "275b1a70-28f6-4c96-8d83-4dbfa57f261e",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon will make animals drop random game items by Winnie",
+      "type": "data",
+      "uuid": "c947f1e2-5439-47a0-bb71-8cd5b1710357",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
