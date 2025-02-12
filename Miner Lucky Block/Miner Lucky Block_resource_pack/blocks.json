@@ -1,0 +1,31 @@
+{
+  "lb:redstoneluckyblock": {
+    "textures": "lb_redstoneluckyblock",
+    "sound": "metal"
+  },
+  "lb:diamondluckyblock": {
+    "textures": "lb_diamondluckyblock",
+    "sound": "metal"
+  },
+  "lb:emeraldluckyblock": {
+    "textures": "lb_emeraldluckyblock",
+    "sound": "metal"
+  },
+  "lb:ironluckyblock": {
+    "textures": "lb_ironluckyblock",
+    "sound": "metal"
+  },
+  "lb:goldenluckyblock": {
+    "textures": "lb_goldenluckyblock",
+    "sound": "metal"
+  },
+  "lb:coalluckyblock": {
+    "textures": "lb_coalluckyblock",
+    "sound": "metal"
+  },
+  "format_version": [
+    1,
+    1,
+    0
+  ]
+}

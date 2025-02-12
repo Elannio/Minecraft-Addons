@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "emeraldluckyblock_236effe6"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:emerald",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:rabbit_foot",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "lb:emeraldluckyblock",
+      "count": 1
+    }
+  }
+}
