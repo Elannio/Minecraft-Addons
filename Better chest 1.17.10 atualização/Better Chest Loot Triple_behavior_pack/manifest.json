@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "All chests in the game will be tripled the items in them. by LanDay",
+    "name": "Better Chest Loot triple",
+    "uuid": "54828176-150a-45ce-ae59-6837cf655a72",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "All chests in the game will be tripled the items in them. by LanDay",
+      "type": "data",
+      "uuid": "bd6d8fc4-4656-4c7a-bc6a-db92d57b8176",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

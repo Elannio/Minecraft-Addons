@@ -1,0 +1,23 @@
+{
+  "do:golredore": {
+    "textures": "do_golredore",
+    "sound": "stone"
+  },
+  "do:goldeniron": {
+    "textures": "do_goldeniron",
+    "sound": "normal"
+  },
+  "do:dimeraldore": {
+    "textures": "do_dimeraldore",
+    "sound": "stone"
+  },
+  "do:allores": {
+    "textures": "do_allores",
+    "sound": "stone"
+  },
+  "format_version": [
+    1,
+    1,
+    0
+  ]
+}

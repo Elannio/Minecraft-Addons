@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "The addon adds new ore blocks that can drop 2 different ores by LanDay",
+    "name": "Dual Ore ",
+    "uuid": "a697a0a6-b7e2-4f17-af9f-4d216fa8f42b",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "The addon adds new ore blocks that can drop 2 different ores by LanDay",
+      "type": "resources",
+      "uuid": "83c3e866-7e5d-4b41-a136-6ff6f3fc230b",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "96b701dc-4be8-4278-ba4e-06db19f0a8fb",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

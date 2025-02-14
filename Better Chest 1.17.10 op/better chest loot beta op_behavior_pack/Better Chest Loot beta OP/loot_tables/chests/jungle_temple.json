@@ -1,0 +1,142 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 20,
+        "max": 60
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:diamond",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 10,
+                "max": 30
+              }
+            }
+          ],
+          "weight": 150
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_ingot",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 10,
+                "max": 50
+              }
+            }
+          ],
+          "weight": 500
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gold_ingot",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 20,
+                "max": 70
+              }
+            }
+          ],
+          "weight": 750
+        },
+        {
+          "type": "item",
+          "name": "minecraft:emerald",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 10,
+                "max": 30
+              }
+            }
+          ],
+          "weight": 100
+        },
+        {
+          "type": "item",
+          "name": "minecraft:bone",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 40,
+                "max": 60
+              }
+            }
+          ],
+          "weight": 1000
+        },
+        {
+          "type": "item",
+          "name": "minecraft:rotten_flesh",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 30,
+                "max": 70
+              }
+            }
+          ],
+          "weight": 800
+        },
+        {
+          "type": "item",
+          "name": "minecraft:bamboo",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 10,
+                "max": 30
+              }
+            }
+          ],
+          "weight": 750
+        },
+        {
+          "type": "item",
+          "name": "minecraft:saddle",
+          "weight": 150
+        },
+        {
+          "type": "item",
+          "name": "minecraft:horsearmoriron",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "minecraft:horsearmorgold",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "minecraft:horsearmordiamond",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "minecraft:book",
+          "weight": 60,
+          "functions": [
+            {
+              "function": "enchant_with_levels",
+              "levels": 300,
+              "treasure": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

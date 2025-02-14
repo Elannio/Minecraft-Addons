@@ -1,0 +1,28 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "do_golredore": {
+      "textures": [
+        "textures/blocks/do_golredore"
+      ]
+    },
+    "do_allores": {
+      "textures": [
+        "textures/blocks/do_allores"
+      ]
+    },
+    "do_goldeniron": {
+      "textures": [
+        "textures/blocks/do_goldeniron"
+      ]
+    },
+    "do_dimeraldore": {
+      "textures": [
+        "textures/blocks/do_dimeraldore"
+      ]
+    }
+  }
+}

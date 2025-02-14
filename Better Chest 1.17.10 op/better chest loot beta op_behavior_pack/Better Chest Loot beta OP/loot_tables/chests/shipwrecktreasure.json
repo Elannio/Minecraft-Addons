@@ -1,0 +1,118 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 30,
+        "max": 60
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:iron_ingot",
+          "weight": 900,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 10,
+                "max": 50
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gold_ingot",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 10,
+                "max": 50
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:emerald",
+          "weight": 400,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 10,
+                "max": 50
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:diamond",
+          "weight": 50
+        },
+        {
+          "type": "item",
+          "name": "minecraft:experience_bottle",
+          "weight": 50
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 20,
+        "max": 50
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:iron_nugget",
+          "weight": 500,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 10,
+                "max": 100
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gold_nugget",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 10,
+                "max": 100
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:dye",
+          "weight": 200,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 10,
+                "max": 100
+              }
+            },
+            {
+              "function": "set_data",
+              "data": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
