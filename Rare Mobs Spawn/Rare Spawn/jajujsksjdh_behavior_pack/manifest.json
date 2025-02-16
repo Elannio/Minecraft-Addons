@@ -1,7 +1,7 @@
 {
   "format_version": 1,
   "header": {
-    "description": "The Addon appear rare mobs in minecraft by LanDay",
+    "description": "The Addon appear rare mobs in minecraft",
     "name": "Rare Mobs Spawn",
     "uuid": "a563f85e-ad5d-47db-817a-576770c300e5",
     "version": [
@@ -17,7 +17,7 @@
   },
   "modules": [
     {
-      "description": "The Addon appear rare mobs in minecraft by LanDay",
+      "description": "The Addon appear rare mobs in minecraft",
       "type": "data",
       "uuid": "f303a446-23d6-4215-bc28-08cc35008f56",
       "version": [

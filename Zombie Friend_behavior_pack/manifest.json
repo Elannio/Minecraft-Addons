@@ -1,7 +1,7 @@
 {
   "format_version": 1,
   "header": {
-    "description": "Zombies are protecting the player from evil mobs. Enjoy.  by LanDay",
+    "description": "Zombies are protecting the player from evil mobs. Enjoy",
     "name": "Zombie Friend",
     "uuid": "0099558e-532c-4384-97c0-d84f66e7c314",
     "version": [
@@ -17,7 +17,7 @@
   },
   "modules": [
     {
-      "description": "zombies are protecting the player from evil mobs. Enjoy.  by LanDay",
+      "description": "zombies are protecting the player from evil mobs. Enjoy",
       "type": "data",
       "uuid": "de54cd72-275e-4990-b363-03aa9c53bb50",
       "version": [
