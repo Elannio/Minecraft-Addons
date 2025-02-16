@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "fakeoregolden_2698f8f7"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "A",
+      "B"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:dye",
+        "data": 11
+      },
+      "B": {
+        "item": "fo:fakeironbucket",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "fo:fakeoregolden",
+      "count": 1
+    }
+  }
+}

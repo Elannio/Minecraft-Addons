@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "fakeorediamond_9bd6cb59"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "A",
+      "B"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:dye",
+        "data": 12
+      },
+      "B": {
+        "item": "fo:fakeironbucket",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "fo:fakeorediamond",
+      "count": 1
+    }
+  }
+}

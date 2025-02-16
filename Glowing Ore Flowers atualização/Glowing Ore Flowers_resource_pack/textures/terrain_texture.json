@@ -1,0 +1,68 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "of_goldenflower_stage_0": {
+      "textures": [
+        "textures/blocks/of_goldenflower_stage_0"
+      ]
+    },
+    "of_emeraldflower_stage_0": {
+      "textures": [
+        "textures/blocks/of_emeraldflower_stage_0"
+      ]
+    },
+    "of_ironflower_stage_0": {
+      "textures": [
+        "textures/blocks/of_ironflower_stage_0"
+      ]
+    },
+    "of_redstoneflower_stage_0": {
+      "textures": [
+        "textures/blocks/of_redstoneflower_stage_0"
+      ]
+    },
+    "of_diamondflower_stage_0": {
+      "textures": [
+        "textures/blocks/of_diamondflower_stage_0"
+      ]
+    },
+    "of_copperflower_stage_0": {
+      "textures": [
+        "textures/blocks/of_copperflower_stage_0"
+      ]
+    },
+    "of_goldenflower_stage_1": {
+      "textures": [
+        "textures/blocks/of_goldenflower_stage_1"
+      ]
+    },
+    "of_emeraldflower_stage_1": {
+      "textures": [
+        "textures/blocks/of_emeraldflower_stage_1"
+      ]
+    },
+    "of_ironflower_stage_1": {
+      "textures": [
+        "textures/blocks/of_ironflower_stage_1"
+      ]
+    },
+    "of_diamondflower_stage_1": {
+      "textures": [
+        "textures/blocks/of_diamondflower_stage_1"
+      ]
+    },
+    "of_copperflower_stage_1": {
+      "textures": [
+        "textures/blocks/of_copperflower_stage_1"
+      ]
+    },
+    "of_redstoneflower_stage_1": {
+      "textures": [
+        "textures/blocks/of_redstoneflower_stage_1"
+      ]
+    }
+  }
+}

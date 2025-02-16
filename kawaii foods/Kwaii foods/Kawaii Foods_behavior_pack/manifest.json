@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This addon adds new types of foods and drinks. It's a very simple addon, i hope you like it, by landay",
+    "name": "Kawaii Foods",
+    "uuid": "83ef92f7-6ffa-4382-834c-ea7572167c22",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon adds new types of foods and drinks. It's a very simple addon, i hope you like it, by landay",
+      "type": "data",
+      "uuid": "9e688a37-1d92-4547-8d2d-c66dc20f9e5f",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "55f340da-42f4-495d-b8f2-ef0293743b59",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

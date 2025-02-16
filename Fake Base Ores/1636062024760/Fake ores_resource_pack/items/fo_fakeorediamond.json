@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "fo:fakeorediamond",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "fo:fakeorediamond",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

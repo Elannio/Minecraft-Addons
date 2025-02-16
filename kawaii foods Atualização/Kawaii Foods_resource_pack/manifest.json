@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "The addon adds over 60 new foods to minecraft.  by LanDay",
+    "name": "Kawaii Foods",
+    "uuid": "0638be31-2f03-4d7c-8942-d383fa57ae12",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "The addon adds over 60 new foods to minecraft.  by LanDay",
+      "type": "resources",
+      "uuid": "7617f3ee-3000-4596-bb11-1b50aa2fea04",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "d489c209-e809-434c-9433-ad5154276ed3",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
