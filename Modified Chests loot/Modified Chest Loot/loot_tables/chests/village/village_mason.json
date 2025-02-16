@@ -1,0 +1,72 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 20,
+        "max": 27
+      },
+      "entries": [
+        {
+          "type": "item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 10,
+                "max": 15
+              }
+            }
+          ],
+          "name": "minecraft:clay_ball"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:flower_pot"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "name": "minecraft:emerald"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "name": "minecraft:diamond"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 10,
+                "max": 15
+              }
+            }
+          ],
+          "name": "minecraft:iron_nugget"
+        },
+        {
+          "type": "item",
+          "functions": [
+            {
+              "function": "minecraft:set_data",
+              "data": 11
+            }
+          ],
+          "name": "minecraft:dye"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:smooth_stone"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:emerald"
+        }
+      ]
+    }
+  ]
+}

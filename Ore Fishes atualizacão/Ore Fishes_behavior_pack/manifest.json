@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "cfjobfuigggh by LanDay",
+    "name": "Ore Fishes",
+    "uuid": "025f0c9e-e2a2-46cc-87ea-a15da25003bd",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "cfjobfuigggh by LanDay",
+      "type": "data",
+      "uuid": "1d099a85-90ad-4b4c-b122-46bc275bf9bd",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "a0fb4f86-8f28-4c32-9167-4d6fd0418f8c",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

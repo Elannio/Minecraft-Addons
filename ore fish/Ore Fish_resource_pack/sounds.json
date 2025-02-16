@@ -1,0 +1,132 @@
+{
+  "entity_sounds": {
+    "entities": {
+      "of:emeraldfish": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "hurt": "mob.fish.hurt",
+          "hurt.in.water": "mob.fish.hurt",
+          "flop": {
+            "sound": "mob.fish.flop",
+            "volume": 1.0,
+            "pitch": 1.0
+          },
+          "step": {
+            "sound": "mob.fish.step",
+            "volume": 0.15,
+            "pitch": 1.0
+          }
+        }
+      },
+      "of:goldenfish": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "hurt": "mob.fish.hurt",
+          "hurt.in.water": "mob.fish.hurt",
+          "flop": {
+            "sound": "mob.fish.flop",
+            "volume": 1.0,
+            "pitch": 1.0
+          },
+          "step": {
+            "sound": "mob.fish.step",
+            "volume": 0.15,
+            "pitch": 1.0
+          }
+        }
+      },
+      "of:ironfish": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "hurt": "mob.fish.hurt",
+          "hurt.in.water": "mob.fish.hurt",
+          "flop": {
+            "sound": "mob.fish.flop",
+            "volume": 1.0,
+            "pitch": 1.0
+          },
+          "step": {
+            "sound": "mob.fish.step",
+            "volume": 0.15,
+            "pitch": 1.0
+          }
+        }
+      },
+      "of:redstonefish": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "hurt": "mob.fish.hurt",
+          "hurt.in.water": "mob.fish.hurt",
+          "flop": {
+            "sound": "mob.fish.flop",
+            "volume": 1.0,
+            "pitch": 1.0
+          },
+          "step": {
+            "sound": "mob.fish.step",
+            "volume": 0.15,
+            "pitch": 1.0
+          }
+        }
+      },
+      "of:coalfish": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "hurt": "mob.fish.hurt",
+          "hurt.in.water": "mob.fish.hurt",
+          "flop": {
+            "sound": "mob.fish.flop",
+            "volume": 1.0,
+            "pitch": 1.0
+          },
+          "step": {
+            "sound": "mob.fish.step",
+            "volume": 0.15,
+            "pitch": 1.0
+          }
+        }
+      },
+      "of:diamondfish": {
+        "volume": 1.0,
+        "pitch": [
+          0.8,
+          1.2
+        ],
+        "events": {
+          "hurt": "mob.fish.hurt",
+          "hurt.in.water": "mob.fish.hurt",
+          "flop": {
+            "sound": "mob.fish.flop",
+            "volume": 1.0,
+            "pitch": 1.0
+          },
+          "step": {
+            "sound": "mob.fish.step",
+            "volume": 0.15,
+            "pitch": 1.0
+          }
+        }
+      }
+    }
+  }
+}

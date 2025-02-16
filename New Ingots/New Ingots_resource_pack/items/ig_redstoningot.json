@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "ig:redstoningot",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "ig:redstoningot",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

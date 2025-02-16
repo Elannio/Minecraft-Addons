@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "Now you'll have fish from minerals in addition to what you already have in the game. by LanDay",
+    "name": "Ore Fishes",
+    "uuid": "cd2cdcfe-1ac4-4444-ac01-72518c39fb0f",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Now you'll have fish from minerals in addition to what you already have in the game. by LanDay",
+      "type": "data",
+      "uuid": "5f506628-d389-4742-91c7-f4fac0ff8e91",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "a18cb857-8077-4cff-9ac6-9946fd309661",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "ig:diamondoreingot": {
+    "textures": "ig_diamondoreingot",
+    "sound": "stone"
+  },
+  "ig:restoneoreingot": {
+    "textures": "ig_restoneoreingot",
+    "sound": "stone"
+  },
+  "ig:coaloreingot": {
+    "textures": "ig_coaloreingot",
+    "sound": "stone"
+  },
+  "format_version": [
+    1,
+    1,
+    0
+  ]
+}

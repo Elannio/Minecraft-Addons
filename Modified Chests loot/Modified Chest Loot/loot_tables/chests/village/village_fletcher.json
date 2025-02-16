@@ -1,0 +1,87 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 20.0,
+        "max": 27.0
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:emerald"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 15.0,
+                "max": 25.0
+              }
+            }
+          ],
+          "name": "minecraft:arrow"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 10.0,
+                "max": 15.0
+              }
+            }
+          ],
+          "name": "minecraft:feather"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 16.0,
+                "max": 32.0
+              }
+            }
+          ],
+          "name": "minecraft:egg"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 10.0,
+                "max": 13.0
+              }
+            }
+          ],
+          "name": "minecraft:flint"
+        },
+        {
+          "type": "item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 3.0,
+                "max": 5.0
+              }
+            }
+          ],
+          "name": "minecraft:emerald"
+        }
+      ]
+    }
+  ]
+}
