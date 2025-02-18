@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "redstoneflower_408e47d3"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:redstone",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "gf:redstoneflower_seed",
+      "count": 2
+    }
+  }
+}

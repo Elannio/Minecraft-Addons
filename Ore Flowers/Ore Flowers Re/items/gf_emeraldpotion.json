@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "gf:emeraldpotion",
+      "category": "Nature"
+    },
+    "components": {
+      "minecraft:icon": "gf:emeraldpotion",
+      "minecraft:use_animation": "drink",
+      "minecraft:render_offsets": "apple"
+    }
+  }
+}
