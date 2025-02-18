@@ -1,0 +1,11 @@
+{
+  "lv:lavacoalore": {
+    "textures": "lv_lavacoalore",
+    "sound": "stone"
+  },
+  "format_version": [
+    1,
+    1,
+    0
+  ]
+}

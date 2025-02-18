@@ -1,0 +1,12 @@
+give @s ro:deepslatediamondrichore
+give @s ro:diamondrich
+give @s ro:goldrichore
+give @s ro:deepslategoldrichore
+give @s ro:deepslatecoalrichore
+give @s ro:coalrichore
+give @s ro:deepslateironrichore
+give @s ro:emeraldrichore
+give @s ro:deepslateemeraldrichore
+give @s ro:deepslateredstonerichore
+give @s ro:redstonerichore
+give @s ro:ironrichore

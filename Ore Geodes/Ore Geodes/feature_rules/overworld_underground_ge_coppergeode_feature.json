@@ -1,0 +1,57 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:feature_rules": {
+    "description": {
+      "places_feature": "ge:coppergeode",
+      "identifier": "ge:coppergeode_rules"
+    },
+    "conditions": {
+      "minecraft:biome_filter": [
+        {
+          "any_of": [
+            {
+              "test": "has_biome_tag",
+              "operator": "==",
+              "value": "overworld"
+            },
+            {
+              "test": "has_biome_tag",
+              "operator": "==",
+              "value": "overworld_generation"
+            }
+          ]
+        }
+      ],
+      "placement_pass": "underground_pass"
+    },
+    "distribution": {
+      "x": {
+        "extent": [
+          0,
+          16
+        ],
+        "distribution": "uniform"
+      },
+      "y": {
+        "extent": [
+          0,
+          60
+        ],
+        "distribution": "uniform"
+      },
+      "z": {
+        "extent": [
+          0,
+          16
+        ],
+        "distribution": "uniform"
+      },
+      "iterations": 1,
+      "coordinate_eval_order": "zyx",
+      "scatter_chance": {
+        "numerator": 1,
+        "denominator": 100
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "ce:giftred": {
+    "textures": {
+      "up": "ce_giftred_up",
+      "down": "ce_giftred_down",
+      "north": "ce_giftred_north",
+      "south": "ce_giftred_south",
+      "east": "ce_giftred_east",
+      "west": "ce_giftred_west"
+    },
+    "sound": "cloth"
+  },
+  "ce:giftgreen": {
+    "textures": {
+      "up": "ce_giftgreen_up",
+      "down": "ce_giftgreen_down",
+      "north": "ce_giftgreen_north",
+      "south": "ce_giftgreen_south",
+      "east": "ce_giftgreen_east",
+      "west": "ce_giftgreen_west"
+    },
+    "sound": "cloth"
+  },
+  "ce:gifrblack": {
+    "textures": {
+      "up": "ce_gifrblack_up",
+      "down": "ce_gifrblack_down",
+      "north": "ce_gifrblack_north",
+      "south": "ce_gifrblack_south",
+      "east": "ce_gifrblack_east",
+      "west": "ce_gifrblack_west"
+    },
+    "sound": "cloth"
+  },
+  "format_version": [
+    1,
+    1,
+    0
+  ]
+}

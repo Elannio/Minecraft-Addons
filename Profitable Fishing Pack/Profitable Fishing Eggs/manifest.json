@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This addon add more items for fishing in mine by landay",
+    "name": "Profitable Fishing Eggs",
+    "uuid": "7db3e6b0-576b-4d64-be34-4c1a0393b52b",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon add more items for fishing in mine by landay",
+      "type": "data",
+      "uuid": "e4b534ae-5497-4b2a-9fe5-9b5d980d4d2a",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

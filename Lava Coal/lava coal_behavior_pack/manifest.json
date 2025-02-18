@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "Tired of using only coal and lava buckets to burn your game items? If you want something different download this addon, the lava coal will be more efficient than the two items in the game that help you with this. by LanDay",
+    "name": "lava coal",
+    "uuid": "10668b20-4156-48fb-beda-dafbdb3717e4",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Tired of using only coal and lava buckets to burn your game items? If you want something different download this addon, the lava coal will be more efficient than the two items in the game that help you with this. by LanDay",
+      "type": "data",
+      "uuid": "617a0a63-859c-4a69-8a32-28c30d13337e",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "dfd1cfe8-6fd9-4e6d-a129-c59aa412b346",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

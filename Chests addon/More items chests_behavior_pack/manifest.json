@@ -1,0 +1,18 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "the Addon adds more item possibilities to  all  the chests found in the game  by LanDay",
+    "name": "More items chests",
+    "uuid": "a6afe667-7fb2-4df3-adaa-f9b0e7512a2e",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  }
+}

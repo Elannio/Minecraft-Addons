@@ -1,0 +1,9 @@
+give @s ce:candylane
+give @s ce:sugarred
+give @s ce:sugargreen
+give @s ce:sugarblack
+give @s ce:sugarcanegreen
+give @s ce:sugarcaneblack
+give @s ce:giftred
+give @s ce:giftgreen
+give @s ce:gifrblack

@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This addon will make all 4 of the most important animals in the game put ore items over time. by LanDay",
+    "name": "Profitable Farm",
+    "uuid": "2860b230-339e-4eaa-9b34-3fbf3442783f",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon will make all 4 of the most important animals in the game put ore items over time. by LanDay",
+      "type": "data",
+      "uuid": "24ffb8a7-21da-468e-aac2-8fb72b3ef692",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

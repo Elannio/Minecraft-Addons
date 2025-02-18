@@ -1,0 +1,161 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 30,
+        "max": 80
+      },
+      "entries": [
+        {
+          "type": "item",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 10,
+                "max": 30
+              }
+            }
+          ],
+          "name": "minecraft:diamond"
+        },
+        {
+          "type": "item",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 10,
+                "max": 50
+              }
+            }
+          ],
+          "name": "minecraft:iron_ingot"
+        },
+        {
+          "type": "item",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 10,
+                "max": 30
+              }
+            }
+          ],
+          "name": "minecraft:gold_ingot"
+        },
+        {
+          "type": "item",
+          "weight": 150,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 10,
+                "max": 30
+              }
+            }
+          ],
+          "name": "minecraft:bread"
+        },
+        {
+          "type": "item",
+          "weight": 150,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 10,
+                "max": 30
+              }
+            }
+          ],
+          "name": "minecraft:apple"
+        },
+        {
+          "type": "item",
+          "weight": 50,
+          "name": "minecraft:iron_pickaxe"
+        },
+        {
+          "type": "item",
+          "weight": 50,
+          "name": "minecraft:iron_sword"
+        },
+        {
+          "type": "item",
+          "weight": 50,
+          "name": "minecraft:iron_chestplate"
+        },
+        {
+          "type": "item",
+          "weight": 50,
+          "name": "minecraft:iron_helmet"
+        },
+        {
+          "type": "item",
+          "weight": 50,
+          "name": "minecraft:iron_leggings"
+        },
+        {
+          "type": "item",
+          "weight": 50,
+          "name": "minecraft:iron_boots"
+        },
+        {
+          "type": "item",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 30,
+                "max": 70
+              }
+            }
+          ],
+          "name": "minecraft:obsidian"
+        },
+        {
+          "type": "item",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 30,
+                "max": 70
+              }
+            },
+            {
+              "function": "set_data",
+              "data": 0
+            }
+          ],
+          "name": "minecraft:sapling"
+        },
+        {
+          "type": "item",
+          "weight": 30,
+          "name": "minecraft:saddle"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:horsearmoriron"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:horsearmorgold"
+        },
+        {
+          "type": "item",
+          "name": "minecraft:horsearmordiamond"
+        }
+      ]
+    }
+  ]
+}

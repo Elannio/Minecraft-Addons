@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "fd:diamondbeetroot",
+      "category": "Nature"
+    },
+    "components": {
+      "minecraft:icon": "fd:diamondbeetroot",
+      "minecraft:use_animation": "eat",
+      "minecraft:render_offsets": "apple"
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:arrow",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 0,
+                                "max": 2
+                            }
+                        },
+                        {
+                            "function": "looting_enchant",
+                            "count": {
+                                "min": 0,
+                                "max": 1
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:bone",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 0,
+                                "max": 2
+                            }
+                        },
+                        {
+                            "function": "looting_enchant",
+                            "count": {
+                                "min": 0,
+                                "max": 1
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+	{
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "random_chance_with_looting",
+          "chance": 50,
+          "looting_multiplier": 0.05
+        }
+      ],
+      "entries": [
+        {
+          "type": "item",
+          "weight": 500,
+          "name": "mp:redstonepieceone"
+        },
+        {
+          "type": "item",
+          "weight": 500,
+          "name": "mp:redstonepiecetwo"
+        },
+        {
+          "type": "item",
+          "weight": 500,
+          "name": "mp:redstoneiecethree"
+        },
+        {
+          "type": "item",
+          "weight": 500,
+          "name": "mp:redstonepiecefour"
+        },
+        {
+          "type": "item",
+          "weight": 500,
+          "name": "mp:goldenpieceone"
+        },
+		{
+          "type": "item",
+          "weight": 500,
+          "name": "mp:goldenpiecetwo"
+        },
+		{
+          "type": "item",
+          "weight": 500,
+          "name": "mp:goldenpiecethree"
+        },
+		{
+          "type": "item",
+          "weight": 500,
+          "name": "mp:goldenpiecefour"
+        }
+      ]
+    }
+    ]
+}

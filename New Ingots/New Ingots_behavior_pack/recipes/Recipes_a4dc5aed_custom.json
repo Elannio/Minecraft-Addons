@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_c5f5cd3d"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "ig:coal",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:coal",
+      "count": 3,
+      "data": 0
+    }
+  }
+}

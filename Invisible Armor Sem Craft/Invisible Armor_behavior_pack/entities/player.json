@@ -1,0 +1,1682 @@
+{
+  "format_version": "1.11",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "minecraft:player",
+      "is_spawnable": false,
+      "is_summonable": false,
+      "is_experimental": false,
+      "scripts": {
+        "animate": [
+          "walk",
+          "ia:diamondhelmet",
+          "ia:chainmailhelmet",
+          "ia:goldenhelmet",
+          "ia:ironhelmet",
+          "ia:leatherhelmet",
+          "ia:netheritehelmet",
+          "ia:goldenchestplate",
+          "ia:ironchestplate",
+          "ia:netheritechestplate",
+          "ia:chainmailchestplate",
+          "ia:leatherchestplate",
+          "ia:diamondboots",
+          "ia:chainmailboots",
+          "ia:goldenboots",
+          "ia:ironboots",
+          "ia:netheriteboots",
+          "ia:leatherboots",
+          "ia:chainmailleggings",
+          "ia:diamondleggings",
+          "ia:goldenleggings",
+          "ia:ironleggings",
+          "ia:leatherleggings",
+          "ia:turtlehelmet",
+          "ia:netheriteleggings",
+          "ia:diamondchestplate"
+        ]
+      },
+      "animations": {
+        "walk": "controller.animation.walk",
+        "ia:diamondhelmet": "controller.animation.ia_diamondhelmet",
+        "ia:chainmailhelmet": "controller.animation.ia_chainmailhelmet",
+        "ia:goldenhelmet": "controller.animation.ia_goldenhelmet",
+        "ia:ironhelmet": "controller.animation.ia_ironhelmet",
+        "ia:leatherhelmet": "controller.animation.ia_leatherhelmet",
+        "ia:netheritehelmet": "controller.animation.ia_netheritehelmet",
+        "ia:goldenchestplate": "controller.animation.ia_goldenchestplate",
+        "ia:ironchestplate": "controller.animation.ia_ironchestplate",
+        "ia:netheritechestplate": "controller.animation.ia_netheritechestplate",
+        "ia:chainmailchestplate": "controller.animation.ia_chainmailchestplate",
+        "ia:leatherchestplate": "controller.animation.ia_leatherchestplate",
+        "ia:diamondboots": "controller.animation.ia_diamondboots",
+        "ia:chainmailboots": "controller.animation.ia_chainmailboots",
+        "ia:goldenboots": "controller.animation.ia_goldenboots",
+        "ia:ironboots": "controller.animation.ia_ironboots",
+        "ia:netheriteboots": "controller.animation.ia_netheriteboots",
+        "ia:leatherboots": "controller.animation.ia_leatherboots",
+        "ia:chainmailleggings": "controller.animation.ia_chainmailleggings",
+        "ia:diamondleggings": "controller.animation.ia_diamondleggings",
+        "ia:goldenleggings": "controller.animation.ia_goldenleggings",
+        "ia:ironleggings": "controller.animation.ia_ironleggings",
+        "ia:leatherleggings": "controller.animation.ia_leatherleggings",
+        "ia:turtlehelmet": "controller.animation.ia_turtlehelmet",
+        "ia:netheriteleggings": "controller.animation.ia_netheriteleggings",
+        "ia:diamondchestplate": "controller.animation.ia_diamondchestplate"
+      }
+    },
+    "component_groups": {
+      "pamobile:respawn": {
+        "minecraft:mark_variant": {
+          "value": 99999
+        },
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:attack": {
+          "damage": 1
+        },
+        "minecraft:spell_effects": {
+          "remove_effects": []
+        }
+      },
+      "ammo:1": {
+        "minecraft:mark_variant": {
+          "value": 1
+        }
+      },
+      "ia:diamondhelmet_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:chainmailhelmet_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:goldenhelmet_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:ironhelmet_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:leatherhelmet_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:netheritehelmet_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:goldenchestplate_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:ironchestplate_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:netheritechestplate_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:chainmailchestplate_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:leatherchestplate_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:diamondboots_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:chainmailboots_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:goldenboots_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:ironboots_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:netheriteboots_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:leatherboots_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:chainmailleggings_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:diamondleggings_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:goldenleggings_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:ironleggings_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:leatherleggings_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:turtlehelmet_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:netheriteleggings_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      },
+      "ia:diamondchestplate_event_play": {
+        "minecraft:health": {
+          "value": 20,
+          "max": 20
+        },
+        "minecraft:movement": {
+          "value": 0.1
+        },
+        "minecraft:spell_effects": {
+          "add_effects": []
+        }
+      }
+    },
+    "components": {
+      "minecraft:type_family": {
+        "family": [
+          "player"
+        ]
+      },
+      "minecraft:loot": {
+        "table": "loot_tables/empty.json"
+      },
+      "minecraft:collision_box": {
+        "width": 0.6,
+        "height": 1.8
+      },
+      "minecraft:can_climb": {},
+      "minecraft:movement": {
+        "value": 0.1
+      },
+      "minecraft:environment_sensor": [
+        {
+          "on_environment": {
+            "filters": {
+              "any_of": [
+                {
+                  "test": "is_family",
+                  "subject": "self",
+                  "value": "player"
+                }
+              ]
+            },
+            "event": "pamobile:refresh_player"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:diamondhelmet"
+                }
+              ]
+            },
+            "event": "ia:diamondhelmet_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:diamondhelmet"
+                }
+              ]
+            },
+            "event": "ia:diamondhelmet_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:chainmailhelmet"
+                }
+              ]
+            },
+            "event": "ia:chainmailhelmet_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:chainmailhelmet"
+                }
+              ]
+            },
+            "event": "ia:chainmailhelmet_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:goldenhelmet"
+                }
+              ]
+            },
+            "event": "ia:goldenhelmet_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:goldenhelmet"
+                }
+              ]
+            },
+            "event": "ia:goldenhelmet_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:ironhelmet"
+                }
+              ]
+            },
+            "event": "ia:ironhelmet_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:ironhelmet"
+                }
+              ]
+            },
+            "event": "ia:ironhelmet_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:leatherhelmet"
+                }
+              ]
+            },
+            "event": "ia:leatherhelmet_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:leatherhelmet"
+                }
+              ]
+            },
+            "event": "ia:leatherhelmet_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:netheritehelmet"
+                }
+              ]
+            },
+            "event": "ia:netheritehelmet_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:netheritehelmet"
+                }
+              ]
+            },
+            "event": "ia:netheritehelmet_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:goldenchestplate"
+                }
+              ]
+            },
+            "event": "ia:goldenchestplate_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:goldenchestplate"
+                }
+              ]
+            },
+            "event": "ia:goldenchestplate_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:ironchestplate"
+                }
+              ]
+            },
+            "event": "ia:ironchestplate_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:ironchestplate"
+                }
+              ]
+            },
+            "event": "ia:ironchestplate_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:netheritechestplate"
+                }
+              ]
+            },
+            "event": "ia:netheritechestplate_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:netheritechestplate"
+                }
+              ]
+            },
+            "event": "ia:netheritechestplate_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:chainmailchestplate"
+                }
+              ]
+            },
+            "event": "ia:chainmailchestplate_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:chainmailchestplate"
+                }
+              ]
+            },
+            "event": "ia:chainmailchestplate_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:leatherchestplate"
+                }
+              ]
+            },
+            "event": "ia:leatherchestplate_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:leatherchestplate"
+                }
+              ]
+            },
+            "event": "ia:leatherchestplate_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:diamondboots"
+                }
+              ]
+            },
+            "event": "ia:diamondboots_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:diamondboots"
+                }
+              ]
+            },
+            "event": "ia:diamondboots_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:chainmailboots"
+                }
+              ]
+            },
+            "event": "ia:chainmailboots_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:chainmailboots"
+                }
+              ]
+            },
+            "event": "ia:chainmailboots_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:goldenboots"
+                }
+              ]
+            },
+            "event": "ia:goldenboots_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:goldenboots"
+                }
+              ]
+            },
+            "event": "ia:goldenboots_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:ironboots"
+                }
+              ]
+            },
+            "event": "ia:ironboots_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:ironboots"
+                }
+              ]
+            },
+            "event": "ia:ironboots_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:netheriteboots"
+                }
+              ]
+            },
+            "event": "ia:netheriteboots_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:netheriteboots"
+                }
+              ]
+            },
+            "event": "ia:netheriteboots_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:leatherboots"
+                }
+              ]
+            },
+            "event": "ia:leatherboots_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:leatherboots"
+                }
+              ]
+            },
+            "event": "ia:leatherboots_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:chainmailleggings"
+                }
+              ]
+            },
+            "event": "ia:chainmailleggings_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:chainmailleggings"
+                }
+              ]
+            },
+            "event": "ia:chainmailleggings_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:diamondleggings"
+                }
+              ]
+            },
+            "event": "ia:diamondleggings_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:diamondleggings"
+                }
+              ]
+            },
+            "event": "ia:diamondleggings_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:goldenleggings"
+                }
+              ]
+            },
+            "event": "ia:goldenleggings_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:goldenleggings"
+                }
+              ]
+            },
+            "event": "ia:goldenleggings_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:ironleggings"
+                }
+              ]
+            },
+            "event": "ia:ironleggings_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:ironleggings"
+                }
+              ]
+            },
+            "event": "ia:ironleggings_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:leatherleggings"
+                }
+              ]
+            },
+            "event": "ia:leatherleggings_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:leatherleggings"
+                }
+              ]
+            },
+            "event": "ia:leatherleggings_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:turtlehelmet"
+                }
+              ]
+            },
+            "event": "ia:turtlehelmet_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:turtlehelmet"
+                }
+              ]
+            },
+            "event": "ia:turtlehelmet_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:netheriteleggings"
+                }
+              ]
+            },
+            "event": "ia:netheriteleggings_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:netheriteleggings"
+                }
+              ]
+            },
+            "event": "ia:netheriteleggings_event_play"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "ia:diamondchestplate"
+                }
+              ]
+            },
+            "event": "ia:diamondchestplate_event_hold"
+          }
+        },
+        {
+          "on_environment": {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "value": "ia:diamondchestplate"
+                }
+              ]
+            },
+            "event": "ia:diamondchestplate_event_play"
+          }
+        }
+      ],
+      "minecraft:player.saturation": {
+        "value": 20
+      },
+      "minecraft:player.exhaustion": {
+        "value": 0,
+        "max": 4
+      },
+      "minecraft:player.level": {
+        "value": 0,
+        "max": 24791
+      },
+      "minecraft:player.experience": {
+        "value": 0,
+        "max": 1
+      },
+      "minecraft:breathable": {
+        "totalSupply": 15,
+        "suffocateTime": -1,
+        "inhaleTime": 3.75,
+        "generatesBubbles": false
+      },
+      "minecraft:nameable": {
+        "alwaysShow": true,
+        "allowNameTagRenaming": false
+      },
+      "minecraft:physics": {},
+      "minecraft:insomnia": {
+        "days_until_insomnia": 3
+      },
+      "minecraft:rideable": {
+        "seat_count": 2,
+        "family_types": [
+          "parrot_tame"
+        ],
+        "pull_in_entities": true,
+        "seats": [
+          {
+            "position": [
+              0.4,
+              -0.15,
+              0.04
+            ],
+            "min_rider_count": 0,
+            "max_rider_count": 0,
+            "lock_rider_rotation": 0
+          },
+          {
+            "position": [
+              -0.4,
+              -0.15,
+              0.04
+            ],
+            "min_rider_count": 1,
+            "max_rider_count": 2,
+            "lock_rider_rotation": 0
+          }
+        ]
+      },
+      "minecraft:scaffolding_climber": {}
+    },
+    "events": {
+      "pamobile:refresh_player": {
+        "add": {
+          "component_groups": [
+            "pamobile:respawn"
+          ]
+        },
+        "remove": {
+          "component_groups": [
+            "ia:diamondhelmet_event_hold",
+            "ia:diamondhelmet_event_play",
+            "ia:chainmailhelmet_event_hold",
+            "ia:chainmailhelmet_event_play",
+            "ia:goldenhelmet_event_hold",
+            "ia:goldenhelmet_event_play",
+            "ia:ironhelmet_event_hold",
+            "ia:ironhelmet_event_play",
+            "ia:leatherhelmet_event_hold",
+            "ia:leatherhelmet_event_play",
+            "ia:netheritehelmet_event_hold",
+            "ia:netheritehelmet_event_play",
+            "ia:goldenchestplate_event_hold",
+            "ia:goldenchestplate_event_play",
+            "ia:ironchestplate_event_hold",
+            "ia:ironchestplate_event_play",
+            "ia:netheritechestplate_event_hold",
+            "ia:netheritechestplate_event_play",
+            "ia:chainmailchestplate_event_hold",
+            "ia:chainmailchestplate_event_play",
+            "ia:leatherchestplate_event_hold",
+            "ia:leatherchestplate_event_play",
+            "ia:diamondboots_event_hold",
+            "ia:diamondboots_event_play",
+            "ia:chainmailboots_event_hold",
+            "ia:chainmailboots_event_play",
+            "ia:goldenboots_event_hold",
+            "ia:goldenboots_event_play",
+            "ia:ironboots_event_hold",
+            "ia:ironboots_event_play",
+            "ia:netheriteboots_event_hold",
+            "ia:netheriteboots_event_play",
+            "ia:leatherboots_event_hold",
+            "ia:leatherboots_event_play",
+            "ia:chainmailleggings_event_hold",
+            "ia:chainmailleggings_event_play",
+            "ia:diamondleggings_event_hold",
+            "ia:diamondleggings_event_play",
+            "ia:goldenleggings_event_hold",
+            "ia:goldenleggings_event_play",
+            "ia:ironleggings_event_hold",
+            "ia:ironleggings_event_play",
+            "ia:leatherleggings_event_hold",
+            "ia:leatherleggings_event_play",
+            "ia:turtlehelmet_event_hold",
+            "ia:turtlehelmet_event_play",
+            "ia:netheriteleggings_event_hold",
+            "ia:netheriteleggings_event_play",
+            "ia:diamondchestplate_event_hold",
+            "ia:diamondchestplate_event_play"
+          ]
+        }
+      },
+      "minecraft:entity_spawned": {
+        "add": {
+          "component_groups": [
+            "pamobile:respawn"
+          ]
+        },
+        "remove": {}
+      },
+      "ammo:1": {
+        "remove": {
+          "component_groups": [
+            "ammo:1"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "ammo:1"
+          ]
+        }
+      },
+      "ammo:2": {
+        "remove": {
+          "component_groups": [
+            "ammo:2"
+          ]
+        },
+        "add": {
+          "component_groups": [
+            "ammo:2"
+          ]
+        }
+      },
+      "ia:diamondhelmet_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:diamondhelmet_event_hold"
+          ]
+        }
+      },
+      "ia:diamondhelmet_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:diamondhelmet_event_play"
+          ]
+        }
+      },
+      "ia:chainmailhelmet_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:chainmailhelmet_event_hold"
+          ]
+        }
+      },
+      "ia:chainmailhelmet_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:chainmailhelmet_event_play"
+          ]
+        }
+      },
+      "ia:goldenhelmet_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:goldenhelmet_event_hold"
+          ]
+        }
+      },
+      "ia:goldenhelmet_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:goldenhelmet_event_play"
+          ]
+        }
+      },
+      "ia:ironhelmet_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:ironhelmet_event_hold"
+          ]
+        }
+      },
+      "ia:ironhelmet_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:ironhelmet_event_play"
+          ]
+        }
+      },
+      "ia:leatherhelmet_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:leatherhelmet_event_hold"
+          ]
+        }
+      },
+      "ia:leatherhelmet_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:leatherhelmet_event_play"
+          ]
+        }
+      },
+      "ia:netheritehelmet_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:netheritehelmet_event_hold"
+          ]
+        }
+      },
+      "ia:netheritehelmet_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:netheritehelmet_event_play"
+          ]
+        }
+      },
+      "ia:goldenchestplate_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:goldenchestplate_event_hold"
+          ]
+        }
+      },
+      "ia:goldenchestplate_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:goldenchestplate_event_play"
+          ]
+        }
+      },
+      "ia:ironchestplate_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:ironchestplate_event_hold"
+          ]
+        }
+      },
+      "ia:ironchestplate_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:ironchestplate_event_play"
+          ]
+        }
+      },
+      "ia:netheritechestplate_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:netheritechestplate_event_hold"
+          ]
+        }
+      },
+      "ia:netheritechestplate_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:netheritechestplate_event_play"
+          ]
+        }
+      },
+      "ia:chainmailchestplate_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:chainmailchestplate_event_hold"
+          ]
+        }
+      },
+      "ia:chainmailchestplate_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:chainmailchestplate_event_play"
+          ]
+        }
+      },
+      "ia:leatherchestplate_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:leatherchestplate_event_hold"
+          ]
+        }
+      },
+      "ia:leatherchestplate_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:leatherchestplate_event_play"
+          ]
+        }
+      },
+      "ia:diamondboots_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:diamondboots_event_hold"
+          ]
+        }
+      },
+      "ia:diamondboots_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:diamondboots_event_play"
+          ]
+        }
+      },
+      "ia:chainmailboots_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:chainmailboots_event_hold"
+          ]
+        }
+      },
+      "ia:chainmailboots_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:chainmailboots_event_play"
+          ]
+        }
+      },
+      "ia:goldenboots_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:goldenboots_event_hold"
+          ]
+        }
+      },
+      "ia:goldenboots_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:goldenboots_event_play"
+          ]
+        }
+      },
+      "ia:ironboots_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:ironboots_event_hold"
+          ]
+        }
+      },
+      "ia:ironboots_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:ironboots_event_play"
+          ]
+        }
+      },
+      "ia:netheriteboots_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:netheriteboots_event_hold"
+          ]
+        }
+      },
+      "ia:netheriteboots_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:netheriteboots_event_play"
+          ]
+        }
+      },
+      "ia:leatherboots_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:leatherboots_event_hold"
+          ]
+        }
+      },
+      "ia:leatherboots_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:leatherboots_event_play"
+          ]
+        }
+      },
+      "ia:chainmailleggings_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:chainmailleggings_event_hold"
+          ]
+        }
+      },
+      "ia:chainmailleggings_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:chainmailleggings_event_play"
+          ]
+        }
+      },
+      "ia:diamondleggings_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:diamondleggings_event_hold"
+          ]
+        }
+      },
+      "ia:diamondleggings_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:diamondleggings_event_play"
+          ]
+        }
+      },
+      "ia:goldenleggings_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:goldenleggings_event_hold"
+          ]
+        }
+      },
+      "ia:goldenleggings_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:goldenleggings_event_play"
+          ]
+        }
+      },
+      "ia:ironleggings_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:ironleggings_event_hold"
+          ]
+        }
+      },
+      "ia:ironleggings_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:ironleggings_event_play"
+          ]
+        }
+      },
+      "ia:leatherleggings_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:leatherleggings_event_hold"
+          ]
+        }
+      },
+      "ia:leatherleggings_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:leatherleggings_event_play"
+          ]
+        }
+      },
+      "ia:turtlehelmet_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:turtlehelmet_event_hold"
+          ]
+        }
+      },
+      "ia:turtlehelmet_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:turtlehelmet_event_play"
+          ]
+        }
+      },
+      "ia:netheriteleggings_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:netheriteleggings_event_hold"
+          ]
+        }
+      },
+      "ia:netheriteleggings_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:netheriteleggings_event_play"
+          ]
+        }
+      },
+      "ia:diamondchestplate_event_hold": {
+        "add": {
+          "component_groups": [
+            "ia:diamondchestplate_event_hold"
+          ]
+        }
+      },
+      "ia:diamondchestplate_event_play": {
+        "add": {
+          "component_groups": [
+            "ia:diamondchestplate_event_play"
+          ]
+        }
+      }
+    }
+  }
+}

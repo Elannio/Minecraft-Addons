@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "leatherhelmet_f3b5189f"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:glass",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:leather_helmet",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "ia:leatherhelmet",
+      "count": 1
+    }
+  }
+}

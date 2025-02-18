@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "slowfallingpill_965b911f"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CBC"
+    ],
+    "key": {
+      "A": {
+        "item": "pe:basepill",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 9
+      },
+      "C": {
+        "item": "minecraft:snowball",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pe:slowfallingpill",
+      "count": 2
+    }
+  }
+}

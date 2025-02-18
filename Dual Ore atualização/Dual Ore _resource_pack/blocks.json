@@ -1,0 +1,31 @@
+{
+  "do:goldeniron": {
+    "textures": "do_goldeniron",
+    "sound": "stone"
+  },
+  "do:allores": {
+    "textures": "do_allores",
+    "sound": "stone"
+  },
+  "do:dimeraldore": {
+    "textures": "do_dimeraldore",
+    "sound": "stone"
+  },
+  "do:lapisemerald": {
+    "textures": "do_lapisemerald",
+    "sound": "stone"
+  },
+  "do:golredore": {
+    "textures": "do_golredore",
+    "sound": "stone"
+  },
+  "do:redrite": {
+    "textures": "do_redrite",
+    "sound": "stone"
+  },
+  "format_version": [
+    1,
+    1,
+    0
+  ]
+}

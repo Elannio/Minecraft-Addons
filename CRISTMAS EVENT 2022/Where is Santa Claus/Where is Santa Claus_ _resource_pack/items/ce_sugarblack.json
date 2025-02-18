@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "ce:sugarblack",
+      "category": "Nature"
+    },
+    "components": {
+      "minecraft:icon": "ce:sugarblack",
+      "minecraft:use_animation": "eat",
+      "minecraft:render_offsets": "apple"
+    }
+  }
+}

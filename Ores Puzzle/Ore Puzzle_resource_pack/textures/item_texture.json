@@ -1,0 +1,135 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "egg_camel": {
+      "textures": "textures/items/egg_camel"
+    },
+    "egg_lion": {
+      "textures": "textures/items/egg_lion"
+    },
+    "egg_penguin": {
+      "textures": "textures/items/egg_penguin"
+    },
+    "egg_tiger": {
+      "textures": "textures/items/egg_tiger"
+    },
+    "egg_elephant": {
+      "textures": "textures/items/egg_elephant"
+    },
+    "egg_deer": {
+      "textures": "textures/items/egg_deer"
+    },
+    "egg_panther": {
+      "textures": "textures/items/egg_panther"
+    },
+    "egg_frog": {
+      "textures": "textures/items/egg_frog"
+    },
+    "egg_crocodile": {
+      "textures": "textures/items/egg_crocodile"
+    },
+    "egg_mouse": {
+      "textures": "textures/items/egg_mouse"
+    },
+    "gallardo": {
+      "textures": "textures/items/gallardo"
+    },
+    "bench": {
+      "textures": "textures/items/bench"
+    },
+    "christmas_tree": {
+      "textures": "textures/items/christmas_tree"
+    },
+    "tivi": {
+      "textures": "textures/items/tivi"
+    },
+    "closet": {
+      "textures": "textures/items/closet"
+    },
+    "laptop": {
+      "textures": "textures/items/laptop"
+    },
+    "piano": {
+      "textures": "textures/items/piano"
+    },
+    "armchairs": {
+      "textures": "textures/items/armchairs"
+    },
+    "chair": {
+      "textures": "textures/items/chair"
+    },
+    "big_table": {
+      "textures": "textures/items/big_table"
+    },
+    "small_table": {
+      "textures": "textures/items/small_table"
+    },
+    "drone": {
+      "textures": "textures/items/drone"
+    },
+    "colorful_gifts": {
+      "textures": "textures/items/colorful_gifts"
+    },
+    "mp:emeraldpiecethree": {
+      "textures": "textures/items/pamobile/mp_emeraldpiecethree"
+    },
+    "mp:diamondpieceone": {
+      "textures": "textures/items/pamobile/mp_diamondpieceone"
+    },
+    "mp:emeraldpiecetwo": {
+      "textures": "textures/items/pamobile/mp_emeraldpiecetwo"
+    },
+    "mp:emeraldpiecefour": {
+      "textures": "textures/items/pamobile/mp_emeraldpiecefour"
+    },
+    "mp:diamondpiecetwo": {
+      "textures": "textures/items/pamobile/mp_diamondpiecetwo"
+    },
+    "mp:emeraldpieceone": {
+      "textures": "textures/items/pamobile/mp_emeraldpieceone"
+    },
+    "mp:diamondpiecethree": {
+      "textures": "textures/items/pamobile/mp_diamondpiecethree"
+    },
+    "mp:diamondpiecefour": {
+      "textures": "textures/items/pamobile/mp_diamondpiecefour"
+    },
+    "mp:goldenpiecetwo": {
+      "textures": "textures/items/pamobile/mp_goldenpiecetwo"
+    },
+    "mp:goldenpiecethree": {
+      "textures": "textures/items/pamobile/mp_goldenpiecethree"
+    },
+    "mp:goldenpiecefour": {
+      "textures": "textures/items/pamobile/mp_goldenpiecefour"
+    },
+    "mp:ironpieceone": {
+      "textures": "textures/items/pamobile/mp_ironpieceone"
+    },
+    "mp:ironpiecetwo": {
+      "textures": "textures/items/pamobile/mp_ironpiecetwo"
+    },
+    "mp:goldenpieceone": {
+      "textures": "textures/items/pamobile/mp_goldenpieceone"
+    },
+    "mp:redstonepieceone": {
+      "textures": "textures/items/pamobile/mp_redstonepieceone"
+    },
+    "mp:redstonepiecefour": {
+      "textures": "textures/items/pamobile/mp_redstonepiecefour"
+    },
+    "mp:redstonepiecethree": {
+      "textures": "textures/items/pamobile/mp_redstonepiecethree"
+    },
+    "mp:ironpiecefour": {
+      "textures": "textures/items/pamobile/mp_ironpiecefour"
+    },
+    "mp:redstonepiecetwo": {
+      "textures": "textures/items/pamobile/mp_redstonepiecetwo"
+    },
+    "mp:ironpiecethree": {
+      "textures": "textures/items/pamobile/mp_ironpiecethree"
+    }
+  }
+}

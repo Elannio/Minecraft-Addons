@@ -1,0 +1,18 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "description": {
+      "category": "Nature",
+      "identifier": "of:diamondflower_seed"
+    },
+    "components": {
+      "minecraft:block_placer": {
+        "block": "of:diamondflower"
+      },
+      "minecraft:max_stack_size": 64,
+      "minecraft:icon": {
+        "texture": "of_diamondflower"
+      }
+    }
+  }
+}

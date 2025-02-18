@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "To make up for the lack of leather the zombies drop it when they die",
+    "name": "Zombie drop leather",
+    "uuid": "9b133a0c-e9f9-416b-aebc-8b6b604f7d1b",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "To make up for the lack of leather the zombies drop it when they die",
+      "type": "data",
+      "uuid": "643cc918-d4b0-4764-bf4d-4e6b6ed0c14e",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

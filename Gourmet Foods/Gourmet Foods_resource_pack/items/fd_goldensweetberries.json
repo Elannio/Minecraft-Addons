@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "fd:goldensweetberries",
+      "category": "Nature"
+    },
+    "components": {
+      "minecraft:icon": "fd:goldensweetberries",
+      "minecraft:use_animation": "eat",
+      "minecraft:render_offsets": "apple"
+    }
+  }
+}

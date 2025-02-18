@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "The addon modifies armor from craft to make them invisible by LanDay",
+    "name": "Invisible Armor Addon",
+    "uuid": "1be30d81-cf2f-40dc-a7af-10c428bf5827",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "The addon modifies armor from craft to make them invisible by LanDay",
+      "type": "resources",
+      "uuid": "eaecfb8a-2123-43b5-a979-d2f342aaba38",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "ae077152-92c9-4e81-9e47-c5dce006171a",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

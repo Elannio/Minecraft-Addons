@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "The addon will add ores flowers, which can be found in some biomes in the game and to improve the vision they light up, they are also craftable.  by LanDay",
+    "name": "Glowing Ore Flowers",
+    "uuid": "adf64cee-786e-4b20-8a42-342960116b4a",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "The addon will add ores flowers, which can be found in some biomes in the game and to improve the vision they light up, they are also craftable.  by LanDay",
+      "type": "data",
+      "uuid": "0893eb3f-49d3-44a1-85db-324b5a523abc",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "97596829-4445-4bdc-b5ad-c156550fd44a",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

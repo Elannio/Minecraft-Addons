@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "The addon adds pieces that can be crafted and turned into ores by LanDay",
+    "name": "Ores Puzzle",
+    "uuid": "0d459016-db7a-4cdd-91b9-34f9cd1984da",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "The addon adds pieces that can be crafted and turned into ores by LanDay",
+      "type": "data",
+      "uuid": "bf1d8310-ceb1-460b-9097-413da4abcb25",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "e03c9c80-e759-4746-a41f-6d515cb9d630",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

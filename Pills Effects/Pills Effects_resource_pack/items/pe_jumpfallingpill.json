@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pe:jumpfallingpill",
+      "category": "Nature"
+    },
+    "components": {
+      "minecraft:icon": "pe:jumpfallingpill",
+      "minecraft:use_animation": "drink",
+      "minecraft:render_offsets": "apple"
+    }
+  }
+}

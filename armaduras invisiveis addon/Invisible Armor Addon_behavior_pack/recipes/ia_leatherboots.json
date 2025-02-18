@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "leatherboots_90c8fd3a"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:glass",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:leather_boots",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "ia:leatherboots",
+      "count": 1
+    }
+  }
+}

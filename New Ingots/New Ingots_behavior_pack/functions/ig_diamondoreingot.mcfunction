@@ -1,0 +1,1 @@
+give @s ig:diamondoreingot

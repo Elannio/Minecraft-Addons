@@ -1,0 +1,38 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_64ffb6f9"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AB ",
+      "CD "
+    ],
+    "key": {
+      "A": {
+        "item": "mp:emeraldpieceone",
+        "data": 0
+      },
+      "B": {
+        "item": "mp:emeraldpiecetwo",
+        "data": 0
+      },
+      "C": {
+        "item": "mp:emeraldpiecethree",
+        "data": 0
+      },
+      "D": {
+        "item": "mp:emeraldpiecefour",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:emerald",
+      "count": 3,
+      "data": 0
+    }
+  }
+}

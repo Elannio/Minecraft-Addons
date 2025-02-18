@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "The addon will add 3 new ingots of existing ores in the game.  by LanDay",
+    "name": "New Ingots",
+    "uuid": "a99074a1-071b-412a-b3f8-13ba53d24ce2",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "The addon will add 3 new ingots of existing ores in the game.  by LanDay",
+      "type": "data",
+      "uuid": "1f9c03f3-8bd3-4eaf-8750-35ed3d9cbe34",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "73244293-e4f2-43ed-b9d3-def528b40190",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

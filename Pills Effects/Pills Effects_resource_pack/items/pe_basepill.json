@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pe:basepill",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "pe:basepill",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

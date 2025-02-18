@@ -1,0 +1,19 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "tags": [
+      "furnace"
+    ],
+    "output": {
+      "item": "ig:redstoningot",
+      "data": 0
+    },
+    "input": {
+      "item": "ig:restoneoreingot",
+      "data": 0
+    },
+    "description": {
+      "identifier": "recipes_07a7535c"
+    }
+  }
+}

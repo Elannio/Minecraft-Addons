@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "recipes_50517e9b"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "fo:fakeoreemerald",
+        "data": 0
+      }
+    ],
+    "result": {
+      "item": "minecraft:emerald",
+      "count": 2,
+      "data": 0
+    }
+  }
+}

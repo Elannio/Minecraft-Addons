@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This addon add fishing random of enchanted items by mushroom",
+    "name": "Profitable Fishing Enchanted Items",
+    "uuid": "4fe64b21-5e79-4747-89e8-e569fe370369",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon add fishing random of enchanted items by mushroom",
+      "type": "data",
+      "uuid": "935754b0-cdc6-4ec3-9e3e-1de5230394a3",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_388df5be"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AB ",
+      "CD "
+    ],
+    "key": {
+      "A": {
+        "item": "mp:ironpieceone",
+        "data": 0
+      },
+      "B": {
+        "item": "mp:ironpiecetwo",
+        "data": 0
+      },
+      "C": {
+        "item": "mp:ironpiecethree",
+        "data": 0
+      },
+      "D": {
+        "item": "mp:ironpiecefour",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:raw_iron",
+      "count": 4,
+      "data": 0
+    }
+  }
+}

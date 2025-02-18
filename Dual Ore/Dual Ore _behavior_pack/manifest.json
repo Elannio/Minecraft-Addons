@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This addon will drop more than one ore when broken by LanDay",
+    "name": "Dual Ore ",
+    "uuid": "c2aa4188-3cc7-44bc-b959-c5941143cf3d",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon will drop more than one ore when broken by LanDay",
+      "type": "data",
+      "uuid": "74674c2a-092a-4ce9-9def-7b1f777562ed",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "6d1fdb4f-37d1-4c90-922d-8e1157bb03c8",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

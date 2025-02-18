@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This addon add 2 new types of coal, lava and water, they will be more efficient than a lava bucket. by LanDay",
+    "name": "lava and Water Coal",
+    "uuid": "9648e9cf-4c8c-49c5-9b48-48b9dc53df37",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon add 2 new types of coal, lava and water, they will be more efficient than a lava bucket. by LanDay",
+      "type": "resources",
+      "uuid": "f22f3794-5828-48ea-903b-016f6a6e4251",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "f72e585a-f11e-42e2-9a96-d6bebd7e0e96",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

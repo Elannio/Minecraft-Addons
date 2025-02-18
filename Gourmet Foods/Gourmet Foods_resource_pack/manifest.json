@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This addon add new foods for your minecraft by Mushroom",
+    "name": "Gourmet Foods",
+    "uuid": "66743ddc-98da-4a8b-87d4-3896818d4d91",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon add new foods for your minecraft by Mushroom",
+      "type": "resources",
+      "uuid": "3b75b2aa-199b-4205-aa7e-8dc49d3b2928",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "c3f5d523-19c6-4679-a8e6-6baf0297835a",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

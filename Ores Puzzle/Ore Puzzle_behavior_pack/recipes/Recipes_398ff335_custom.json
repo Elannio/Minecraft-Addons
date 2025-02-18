@@ -1,0 +1,38 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_8fab247b"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AB ",
+      "CD "
+    ],
+    "key": {
+      "A": {
+        "item": "mp:goldenpieceone",
+        "data": 0
+      },
+      "B": {
+        "item": "mp:goldenpiecetwo",
+        "data": 0
+      },
+      "C": {
+        "item": "mp:goldenpiecethree",
+        "data": 0
+      },
+      "D": {
+        "item": "mp:goldenpiecefour",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:raw_gold",
+      "count": 4,
+      "data": 0
+    }
+  }
+}

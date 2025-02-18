@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This addon add more items for fishing in mine by landay",
+    "name": "Profitable Fishing Potions",
+    "uuid": "353b7911-8b1b-458b-969e-70d36b0798b8",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon add more items for fishing in mine by landay",
+      "type": "data",
+      "uuid": "7fe33243-5c83-4ead-af9b-4ea32e33fb45",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

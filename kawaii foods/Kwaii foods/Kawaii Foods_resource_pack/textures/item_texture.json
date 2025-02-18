@@ -1,0 +1,189 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "egg_camel": {
+      "textures": "textures/items/egg_camel"
+    },
+    "egg_lion": {
+      "textures": "textures/items/egg_lion"
+    },
+    "egg_penguin": {
+      "textures": "textures/items/egg_penguin"
+    },
+    "egg_tiger": {
+      "textures": "textures/items/egg_tiger"
+    },
+    "egg_elephant": {
+      "textures": "textures/items/egg_elephant"
+    },
+    "egg_deer": {
+      "textures": "textures/items/egg_deer"
+    },
+    "egg_panther": {
+      "textures": "textures/items/egg_panther"
+    },
+    "egg_frog": {
+      "textures": "textures/items/egg_frog"
+    },
+    "egg_crocodile": {
+      "textures": "textures/items/egg_crocodile"
+    },
+    "egg_mouse": {
+      "textures": "textures/items/egg_mouse"
+    },
+    "gallardo": {
+      "textures": "textures/items/gallardo"
+    },
+    "bench": {
+      "textures": "textures/items/bench"
+    },
+    "christmas_tree": {
+      "textures": "textures/items/christmas_tree"
+    },
+    "tivi": {
+      "textures": "textures/items/tivi"
+    },
+    "closet": {
+      "textures": "textures/items/closet"
+    },
+    "laptop": {
+      "textures": "textures/items/laptop"
+    },
+    "piano": {
+      "textures": "textures/items/piano"
+    },
+    "armchairs": {
+      "textures": "textures/items/armchairs"
+    },
+    "chair": {
+      "textures": "textures/items/chair"
+    },
+    "big_table": {
+      "textures": "textures/items/big_table"
+    },
+    "small_table": {
+      "textures": "textures/items/small_table"
+    },
+    "drone": {
+      "textures": "textures/items/drone"
+    },
+    "colorful_gifts": {
+      "textures": "textures/items/colorful_gifts"
+    },
+    "kf:onigiri": {
+      "textures": "textures/items/pamobile/kf_onigiri"
+    },
+    "kf:goldensoup": {
+      "textures": "textures/items/pamobile/kf_goldensoup"
+    },
+    "kf:emeraldsoup": {
+      "textures": "textures/items/pamobile/kf_emeraldsoup"
+    },
+    "kf:bittencookie": {
+      "textures": "textures/items/pamobile/kf_bittencookie"
+    },
+    "kf:lapislazulisoup": {
+      "textures": "textures/items/pamobile/kf_lapislazulisoup"
+    },
+    "kf:diamondsoup": {
+      "textures": "textures/items/pamobile/kf_diamondsoup"
+    },
+    "kf:avocado": {
+      "textures": "textures/items/pamobile/kf_avocado"
+    },
+    "kf:pinkbeet": {
+      "textures": "textures/items/pamobile/kf_pinkbeet"
+    },
+    "kf:chocolatebar": {
+      "textures": "textures/items/pamobile/kf_chocolatebar"
+    },
+    "kf:pittedavocado": {
+      "textures": "textures/items/pamobile/kf_pittedavocado"
+    },
+    "kf:diamondlollipop": {
+      "textures": "textures/items/pamobile/kf_diamondlollipop"
+    },
+    "kf:eggs": {
+      "textures": "textures/items/pamobile/kf_eggs"
+    },
+    "kf:redstonesoup": {
+      "textures": "textures/items/pamobile/kf_redstonesoup"
+    },
+    "kf:happyemojicookie": {
+      "textures": "textures/items/pamobile/kf_happyemojicookie"
+    },
+    "kf:redstonepopsicle": {
+      "textures": "textures/items/pamobile/kf_redstonepopsicle"
+    },
+    "kf:emeraldlollipop": {
+      "textures": "textures/items/pamobile/kf_emeraldlollipop"
+    },
+    "kf:goldenlollipop": {
+      "textures": "textures/items/pamobile/kf_goldenlollipop"
+    },
+    "kf:goldenpopsicle": {
+      "textures": "textures/items/pamobile/kf_goldenpopsicle"
+    },
+    "kf:chocolatepopsicle": {
+      "textures": "textures/items/pamobile/kf_chocolatepopsicle"
+    },
+    "kf:diamondpopsicle": {
+      "textures": "textures/items/pamobile/kf_diamondpopsicle"
+    },
+    "kf:seaweedpopsicle": {
+      "textures": "textures/items/pamobile/kf_seaweedpopsicle"
+    },
+    "kf:greentea": {
+      "textures": "textures/items/pamobile/kf_greentea"
+    },
+    "kf:chocolatelollipop": {
+      "textures": "textures/items/pamobile/kf_chocolatelollipop"
+    },
+    "kf:seriousemojicookie": {
+      "textures": "textures/items/pamobile/kf_seriousemojicookie"
+    },
+    "kf:seaweedorigini": {
+      "textures": "textures/items/pamobile/kf_seaweedorigini"
+    },
+    "kf:greencoconot": {
+      "textures": "textures/items/pamobile/kf_greencoconot"
+    },
+    "kf:redstonelollipop": {
+      "textures": "textures/items/pamobile/kf_redstonelollipop"
+    },
+    "kf:obsidianjuice": {
+      "textures": "textures/items/pamobile/kf_obsidianjuice"
+    },
+    "kf:pear": {
+      "textures": "textures/items/pamobile/kf_pear"
+    },
+    "kf:diamondjuice": {
+      "textures": "textures/items/pamobile/kf_diamondjuice"
+    },
+    "kf:redstonejuice": {
+      "textures": "textures/items/pamobile/kf_redstonejuice"
+    },
+    "kf:redstonedrink": {
+      "textures": "textures/items/pamobile/kf_redstonedrink"
+    },
+    "kf:partofthecoconot": {
+      "textures": "textures/items/pamobile/kf_partofthecoconot"
+    },
+    "kf:applejuice": {
+      "textures": "textures/items/pamobile/kf_applejuice"
+    },
+    "kf:coconot": {
+      "textures": "textures/items/pamobile/kf_coconot"
+    },
+    "kf:diamonddrink": {
+      "textures": "textures/items/pamobile/kf_diamonddrink"
+    },
+    "kf:obsidiandrink": {
+      "textures": "textures/items/pamobile/kf_obsidiandrink"
+    },
+    "kf:goldenjuice": {
+      "textures": "textures/items/pamobile/kf_goldenjuice"
+    }
+  }
+}

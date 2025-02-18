@@ -1,0 +1,55 @@
+{
+  "ro:diamondrich": {
+    "textures": "ro_diamondrich",
+    "sound": "stone"
+  },
+  "ro:deepslatediamondrichore": {
+    "textures": "ro_deepslatediamondrichore",
+    "sound": "stone"
+  },
+  "ro:deepslategoldrichore": {
+    "textures": "ro_deepslategoldrichore",
+    "sound": "stone"
+  },
+  "ro:goldrichore": {
+    "textures": "ro_goldrichore",
+    "sound": "stone"
+  },
+  "ro:coalrichore": {
+    "textures": "ro_coalrichore",
+    "sound": "stone"
+  },
+  "ro:deepslatecoalrichore": {
+    "textures": "ro_deepslatecoalrichore",
+    "sound": "stone"
+  },
+  "ro:deepslateironrichore": {
+    "textures": "ro_deepslateironrichore",
+    "sound": "stone"
+  },
+  "ro:deepslateredstonerichore": {
+    "textures": "ro_deepslateredstonerichore",
+    "sound": "stone"
+  },
+  "ro:redstonerichore": {
+    "textures": "ro_redstonerichore",
+    "sound": "stone"
+  },
+  "ro:ironrichore": {
+    "textures": "ro_ironrichore",
+    "sound": "stone"
+  },
+  "ro:emeraldrichore": {
+    "textures": "ro_emeraldrichore",
+    "sound": "stone"
+  },
+  "ro:deepslateemeraldrichore": {
+    "textures": "ro_deepslateemeraldrichore",
+    "sound": "stone"
+  },
+  "format_version": [
+    1,
+    1,
+    0
+  ]
+}

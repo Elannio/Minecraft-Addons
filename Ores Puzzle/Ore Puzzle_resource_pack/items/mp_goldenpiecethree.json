@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "mp:goldenpiecethree",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "mp:goldenpiecethree",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

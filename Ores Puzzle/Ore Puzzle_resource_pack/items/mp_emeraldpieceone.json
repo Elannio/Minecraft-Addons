@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "mp:emeraldpieceone",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "mp:emeraldpieceone",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

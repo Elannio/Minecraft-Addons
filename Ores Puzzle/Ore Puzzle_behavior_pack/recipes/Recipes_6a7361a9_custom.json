@@ -1,0 +1,38 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_dab4e1f1"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AB ",
+      "CD "
+    ],
+    "key": {
+      "A": {
+        "item": "mp:redstonepieceone",
+        "data": 0
+      },
+      "B": {
+        "item": "mp:redstonepiecetwo",
+        "data": 0
+      },
+      "C": {
+        "item": "mp:redstonepiecethree",
+        "data": 0
+      },
+      "D": {
+        "item": "mp:redstonepiecefour",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:redstone",
+      "count": 4,
+      "data": 0
+    }
+  }
+}

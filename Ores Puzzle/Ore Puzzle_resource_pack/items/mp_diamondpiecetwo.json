@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "mp:diamondpiecetwo",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "mp:diamondpiecetwo",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

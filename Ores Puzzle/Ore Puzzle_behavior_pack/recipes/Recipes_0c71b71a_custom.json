@@ -1,0 +1,38 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_2b0e2800"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AB ",
+      "CD "
+    ],
+    "key": {
+      "A": {
+        "item": "mp:diamondpieceone",
+        "data": 0
+      },
+      "B": {
+        "item": "mp:diamondpiecetwo",
+        "data": 0
+      },
+      "C": {
+        "item": "mp:diamondpiecethree",
+        "data": 0
+      },
+      "D": {
+        "item": "mp:diamondpiecefour",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:diamond",
+      "count": 3,
+      "data": 0
+    }
+  }
+}

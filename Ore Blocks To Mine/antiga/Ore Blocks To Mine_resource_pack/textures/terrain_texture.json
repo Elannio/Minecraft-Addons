@@ -1,0 +1,58 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "ob_blockofdiamond": {
+      "textures": [
+        "textures/blocks/ob_blockofdiamond"
+      ]
+    },
+    "ob_blockofcopper": {
+      "textures": [
+        "textures/blocks/ob_blockofcopper"
+      ]
+    },
+    "ob_blockofiron": {
+      "textures": [
+        "textures/blocks/ob_blockofiron"
+      ]
+    },
+    "ob_blockofgold": {
+      "textures": [
+        "textures/blocks/ob_blockofgold"
+      ]
+    },
+    "ob_blockofredstone": {
+      "textures": [
+        "textures/blocks/ob_blockofredstone"
+      ]
+    },
+    "ob_blockofcoal": {
+      "textures": [
+        "textures/blocks/ob_blockofcoal"
+      ]
+    },
+	"ob_blockofnetherite": {
+      "textures": [
+        "textures/blocks/ob_blockofnetherite"
+      ]
+    },
+	"ob_blockoflapislazuli": {
+      "textures": [
+        "textures/blocks/ob_blockoflapislazuli"
+      ]
+    },
+	"ob_whitewool": {
+      "textures": [
+        "textures/blocks/ob_whitewool"
+      ]
+    },
+	"ob_slimeblock": {
+      "textures": [
+        "textures/blocks/ob_slimeblock"
+      ]
+    }
+  }
+}

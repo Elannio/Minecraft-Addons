@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "mp:redstonepiecethree",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "mp:redstonepiecethree",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

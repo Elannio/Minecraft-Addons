@@ -1,0 +1,112 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:rotten_flesh",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 0,
+                                "max": 2
+                            }
+                        },
+                        {
+                            "function": "looting_enchant",
+                            "count": {
+                                "min": 0,
+                                "max": 1
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "conditions": [
+                {
+                    "condition": "killed_by_player_or_pets"
+                },
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 0.025,
+                    "looting_multiplier": 0.01
+                }
+            ],
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:iron_ingot",
+                    "weight": 1
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:carrot",
+                    "weight": 1
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:potato",
+                    "weight": 1
+                }
+            ]
+        },
+	{
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "random_chance_with_looting",
+          "chance": 50,
+          "looting_multiplier": 0.05
+        }
+      ],
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1000,
+          "name": "mp:diamondpieceone"
+        },
+        {
+          "type": "item",
+          "weight": 1000,
+          "name": "mp:diamondpiecetwo"
+        },
+        {
+          "type": "item",
+          "weight": 1000,
+          "name": "mp:diamondpiecethree"
+        },
+        {
+          "type": "item",
+          "weight": 1000,
+          "name": "mp:diamondpiecefour"
+        },
+        {
+          "type": "item",
+          "weight": 1000,
+          "name": "mp:ironpieceone"
+        },
+		{
+          "type": "item",
+          "weight": 1000,
+          "name": "mp:ironpiecetwo"
+        },
+		{
+          "type": "item",
+          "weight": 1000,
+          "name": "mp:ironpiecethree"
+        },
+		{
+          "type": "item",
+          "weight": 1000,
+          "name": "mp:ironpiecefour"
+        }
+      ]
+    }
+  ]
+}

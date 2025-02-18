@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "The Addon adds new fish to minecraft and all of ore. by LanDay",
+    "name": "Ore Fish",
+    "uuid": "3c63c1a0-d04b-47c3-82b6-c0ffcc51fc11",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "The Addon adds new fish to minecraft and all of ore. by LanDay",
+      "type": "data",
+      "uuid": "25ebdd6f-baa7-4d9e-a949-8086d73bdffb",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "7405f5eb-5960-488e-a42c-a6377b0fb8c1",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

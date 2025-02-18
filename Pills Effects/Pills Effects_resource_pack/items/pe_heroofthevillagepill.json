@@ -1,0 +1,14 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pe:heroofthevillagepill",
+      "category": "Nature"
+    },
+    "components": {
+      "minecraft:icon": "pe:heroofthevillagepill",
+      "minecraft:use_animation": "drink",
+      "minecraft:render_offsets": "apple"
+    }
+  }
+}

@@ -1,0 +1,956 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 4,
+        "max": 8
+      },
+      "entries": [
+        {
+          "type": "item",
+          "weight": 7,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 3,
+                "max": 5
+              }
+            }
+          ],
+          "name": "minecraft:wheat"
+        },
+                {
+                    "type": "item",
+                    "name": "minecraft:trident",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:wooden_sword",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:stone_sword",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:netherite_sword",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:iron_sword",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:golden_sword",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:diamond_sword",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:diamond_pickaxe",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:iron_pickaxe",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:wooden_pickaxe",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:netherite_pickaxe",
+                    "weight": 10
+                },                
+				{
+                    "type": "item",
+                    "name": "minecraft:golden_pickaxe",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:stone_pickaxe",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:wooden_axe",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:golden_axe",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:iron_axe",
+                    "weight": 10
+                },                
+				{
+                    "type": "item",
+                    "name": "minecraft:diamond_axe",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:netherite_axe",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:stone_axe",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:chainmail_helmet",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:diamond_helmet",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:golden_helmet",
+                    "weight": 10
+                },                
+				{
+                    "type": "item",
+                    "name": "minecraft:iron_helmet",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:leather_helmet",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:netherite_helmet",
+                    "weight": 10
+                },                
+				{
+                    "type": "item",
+                    "name": "minecraft:turtle_helmet",
+                    "weight": 10
+                },                
+				{
+                    "type": "item",
+                    "name": "minecraft:chainmail_chestplate",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:diamond_chestplate",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:iron_chestplate",
+                    "weight": 10
+                },                
+				{
+                    "type": "item",
+                    "name": "minecraft:golden_chestplate",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:leather_chestplate",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:netherite_chestplate",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:chainmail_leggings",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:iron_leggings",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:leather_leggings",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:golden_leggings",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:diamond_leggings",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:netherite_leggings",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:chainmail_boots",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:iron_boots",
+                    "weight": 5
+                },                
+				{
+                    "type": "item",
+                    "name": "minecraft:leather_boots",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:golden_boots",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:diamond_boots",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:netherite_boots",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:elytra",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:sadle",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:diamond_horse_armor",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:golden_horse_armor",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:chainmail_horse_armor",
+                    "weight": 10
+                },				                
+				{
+                    "type": "item",
+                    "name": "minecraft:iron_horse_armor",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:diamond_hoe",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:iron_hoe",
+                    "weight": 10
+                },				                
+				{
+                    "type": "item",
+                    "name": "minecraft:golden_hoe",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:netherite_hoe",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:stone_hoe",
+                    "weight": 10
+                },				                
+				{
+                    "type": "item",
+                    "name": "minecraft:wooden_hoe",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "minecraft:crossbow",
+                    "weight": 8
+                },
+				{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 0
+				   }
+				],
+				   "weight": 10
+				},
+							{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 1
+				   }
+				],
+				   "weight": 10
+				},
+					{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 2
+				   }
+				],
+				   "weight": 10
+				},
+							{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 3
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 4
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 5
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 6
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 7
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 8
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 9
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 10
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 11
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 12
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 13
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 14
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 15
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 16
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 17
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 18
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 19
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 20
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 21
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 22
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 23
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 24
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 25
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 26
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 27
+				   }
+				],
+				   "weight": 10
+				},				{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 28
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 29
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 30
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 31
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 32
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 33
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 34
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 35
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 36
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 37
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 38
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 39
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 40
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 41
+				   }
+				],
+				   "weight": 10
+				},
+								{
+				  "type": "item",
+				  "name": "minecraft:arrow",
+				  "functions": [
+				 {
+                  "function": "set_data",
+                  "data": 42
+				   }
+				],
+				   "weight": 10
+				},
+                {
+                    "type": "item",
+                    "name": "minecraft:bow",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "set_damage",
+                            "damage": {
+                                "min": 0,
+                                "max": 0.25
+                            }
+                        },
+                        {
+                            "function": "enchant_with_levels",
+                            "levels": 30,
+                            "treasure": true
+                        }
+                    ]
+                },
+        {
+          "type": "item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 5
+              }
+            }
+          ],
+          "name": "minecraft:potato"
+        },
+        {
+          "type": "item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 3,
+                "max": 5
+              }
+            }
+          ],
+          "name": "minecraft:carrot"
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 1,
+        "max": 1
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:log2",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 1,
+        "max": 3
+      },
+      "entries": [
+        {
+          "type": "item",
+          "weight": 7,
+          "name": "minecraft:experience_bottle"
+        },
+        {
+          "type": "item",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ],
+          "name": "minecraft:string"
+        },
+        {
+          "type": "item",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 2,
+                "max": 7
+              }
+            }
+          ],
+          "name": "minecraft:arrow"
+        },
+        {
+          "type": "item",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "name": "minecraft:tripwire_hook"
+        },
+        {
+          "type": "item",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ],
+          "name": "minecraft:iron_ingot"
+        },
+        {
+          "type": "item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ],
+          "name": "minecraft:book"
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 0,
+        "max": 1
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:goat_horn",
+          "functions": [
+            {
+              "function": "set_data",
+              "data": {
+                "min": 0,
+                "max": 3
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+
+}

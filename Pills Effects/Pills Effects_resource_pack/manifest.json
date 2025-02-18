@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This addon add new pills for your minecraft by Landay",
+    "name": "Pills Effects",
+    "uuid": "43f13e89-6d71-48a0-863e-c501eabf84a3",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon add new pills for your minecraft by Landay",
+      "type": "resources",
+      "uuid": "aadca81f-b819-41bc-95d5-1430a77fa6a6",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "1e0ede9c-72e8-4ff6-9cc9-3c3c702f29b1",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

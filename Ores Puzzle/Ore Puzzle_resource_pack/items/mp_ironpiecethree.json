@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "mp:ironpiecethree",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "mp:ironpiecethree",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

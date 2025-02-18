@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "copperbread_f9f2ca45"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:raw_copper",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:bread",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "fd:copperbread",
+      "count": 1
+    }
+  }
+}

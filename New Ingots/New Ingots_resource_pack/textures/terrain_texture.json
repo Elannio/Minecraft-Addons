@@ -1,0 +1,23 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "ig_diamondoreingot": {
+      "textures": [
+        "textures/blocks/ig_diamondoreingot"
+      ]
+    },
+    "ig_restoneoreingot": {
+      "textures": [
+        "textures/blocks/ig_restoneoreingot"
+      ]
+    },
+    "ig_coaloreingot": {
+      "textures": [
+        "textures/blocks/ig_coaloreingot"
+      ]
+    }
+  }
+}

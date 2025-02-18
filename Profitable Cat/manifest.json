@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This addon add profitable cats for your world by mushroom",
+    "name": "Profitable Cat",
+    "uuid": "13d899d4-d386-4fa2-887f-878b753d137d",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon add profitable cats for your world by mushroom",
+      "type": "data",
+      "uuid": "788464ec-598a-42a6-8dd0-2dbff42c5322",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

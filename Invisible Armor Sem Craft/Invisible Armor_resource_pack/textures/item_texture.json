@@ -1,0 +1,200 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "egg_camel": {
+      "textures": "textures/items/egg_camel"
+    },
+    "egg_lion": {
+      "textures": "textures/items/egg_lion"
+    },
+    "egg_penguin": {
+      "textures": "textures/items/egg_penguin"
+    },
+    "egg_tiger": {
+      "textures": "textures/items/egg_tiger"
+    },
+    "egg_elephant": {
+      "textures": "textures/items/egg_elephant"
+    },
+    "egg_deer": {
+      "textures": "textures/items/egg_deer"
+    },
+    "egg_panther": {
+      "textures": "textures/items/egg_panther"
+    },
+    "egg_frog": {
+      "textures": "textures/items/egg_frog"
+    },
+    "egg_crocodile": {
+      "textures": "textures/items/egg_crocodile"
+    },
+    "egg_mouse": {
+      "textures": "textures/items/egg_mouse"
+    },
+    "gallardo": {
+      "textures": "textures/items/gallardo"
+    },
+    "bench": {
+      "textures": "textures/items/bench"
+    },
+    "christmas_tree": {
+      "textures": "textures/items/christmas_tree"
+    },
+    "tivi": {
+      "textures": "textures/items/tivi"
+    },
+    "closet": {
+      "textures": "textures/items/closet"
+    },
+    "laptop": {
+      "textures": "textures/items/laptop"
+    },
+    "piano": {
+      "textures": "textures/items/piano"
+    },
+    "armchairs": {
+      "textures": "textures/items/armchairs"
+    },
+    "chair": {
+      "textures": "textures/items/chair"
+    },
+    "big_table": {
+      "textures": "textures/items/big_table"
+    },
+    "small_table": {
+      "textures": "textures/items/small_table"
+    },
+    "drone": {
+      "textures": "textures/items/drone"
+    },
+    "colorful_gifts": {
+      "textures": "textures/items/colorful_gifts"
+    },
+    "ia_turtlehelmet": {
+      "textures": [
+        "textures/items/pamobile/ia_turtlehelmet"
+      ]
+    },
+    "ia_diamondhelmet": {
+      "textures": [
+        "textures/items/pamobile/ia_diamondhelmet"
+      ]
+    },
+    "ia_chainmailhelmet": {
+      "textures": [
+        "textures/items/pamobile/ia_chainmailhelmet"
+      ]
+    },
+    "ia_goldenhelmet": {
+      "textures": [
+        "textures/items/pamobile/ia_goldenhelmet"
+      ]
+    },
+    "ia_ironhelmet": {
+      "textures": [
+        "textures/items/pamobile/ia_ironhelmet"
+      ]
+    },
+    "ia_leatherhelmet": {
+      "textures": [
+        "textures/items/pamobile/ia_leatherhelmet"
+      ]
+    },
+    "ia_netheritehelmet": {
+      "textures": [
+        "textures/items/pamobile/ia_netheritehelmet"
+      ]
+    },
+    "ia_goldenchestplate": {
+      "textures": [
+        "textures/items/pamobile/ia_goldenchestplate"
+      ]
+    },
+    "ia_ironchestplate": {
+      "textures": [
+        "textures/items/pamobile/ia_ironchestplate"
+      ]
+    },
+    "ia_netheritechestplate": {
+      "textures": [
+        "textures/items/pamobile/ia_netheritechestplate"
+      ]
+    },
+    "ia_chainmailchestplate": {
+      "textures": [
+        "textures/items/pamobile/ia_chainmailchestplate"
+      ]
+    },
+    "ia_leatherchestplate": {
+      "textures": [
+        "textures/items/pamobile/ia_leatherchestplate"
+      ]
+    },
+    "ia_diamondboots": {
+      "textures": [
+        "textures/items/pamobile/ia_diamondboots"
+      ]
+    },
+    "ia_chainmailboots": {
+      "textures": [
+        "textures/items/pamobile/ia_chainmailboots"
+      ]
+    },
+    "ia_goldenboots": {
+      "textures": [
+        "textures/items/pamobile/ia_goldenboots"
+      ]
+    },
+    "ia_ironboots": {
+      "textures": [
+        "textures/items/pamobile/ia_ironboots"
+      ]
+    },
+    "ia_netheriteboots": {
+      "textures": [
+        "textures/items/pamobile/ia_netheriteboots"
+      ]
+    },
+    "ia_leatherboots": {
+      "textures": [
+        "textures/items/pamobile/ia_leatherboots"
+      ]
+    },
+    "ia_chainmailleggings": {
+      "textures": [
+        "textures/items/pamobile/ia_chainmailleggings"
+      ]
+    },
+    "ia_diamondleggings": {
+      "textures": [
+        "textures/items/pamobile/ia_diamondleggings"
+      ]
+    },
+    "ia_goldenleggings": {
+      "textures": [
+        "textures/items/pamobile/ia_goldenleggings"
+      ]
+    },
+    "ia_ironleggings": {
+      "textures": [
+        "textures/items/pamobile/ia_ironleggings"
+      ]
+    },
+    "ia_leatherleggings": {
+      "textures": [
+        "textures/items/pamobile/ia_leatherleggings"
+      ]
+    },
+    "ia_netheriteleggings": {
+      "textures": [
+        "textures/items/pamobile/ia_netheriteleggings"
+      ]
+    },
+    "ia_diamondchestplate": {
+      "textures": [
+        "textures/items/pamobile/ia_diamondchestplate"
+      ]
+    }
+  }
+}

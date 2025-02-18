@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "seriousemojicookie_885b339e"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " A ",
+      "BC "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:golden_apple",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:wheat",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:dye",
+        "data": 3
+      }
+    },
+    "result": {
+      "item": "kf:seriousemojicookie",
+      "count": 1
+    }
+  }
+}

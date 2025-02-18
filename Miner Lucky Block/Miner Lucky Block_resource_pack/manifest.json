@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "this addon add lucky blocks for your minecraft by mushroom",
+    "name": "Miner Lucky Block",
+    "uuid": "ed510f2a-d5ef-4e3e-ab22-9e2fb081e15a",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "this addon add lucky blocks for your minecraft by mushroom",
+      "type": "resources",
+      "uuid": "6adf66d9-17fd-48bb-bedb-3c1fde5fcdc1",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "f76860bd-16a1-4064-a99f-e207d2ed143d",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

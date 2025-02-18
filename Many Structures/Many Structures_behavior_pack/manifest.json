@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This addon add new structures for your minecraft by mushroom",
+    "name": "Many Structures",
+    "uuid": "141f0af3-4acc-4371-8ff3-32de086a5ca8",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon add new structures for your minecraft by mushroom",
+      "type": "data",
+      "uuid": "f65a9794-907d-43ad-ba07-ee1371ad104a",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

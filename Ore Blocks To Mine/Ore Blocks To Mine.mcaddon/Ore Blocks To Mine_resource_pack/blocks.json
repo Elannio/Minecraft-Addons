@@ -1,0 +1,103 @@
+{
+  "ob:blockofdiamond": {
+    "textures": "ob_blockofdiamond",
+    "sound": "metal"
+  },
+  "ob:blockofcopper": {
+    "textures": "ob_blockofcopper",
+    "sound": "metal"
+  },
+  "ob:blockofiron": {
+    "textures": "ob_blockofiron",
+    "sound": "metal"
+  },
+  "ob:blockofgold": {
+    "textures": "ob_blockofgold",
+    "sound": "metal"
+  },
+  "ob:blockofredstone": {
+    "textures": "ob_blockofredstone",
+    "sound": "metal"
+  },
+  "ob:blockofcoal": {
+    "textures": "ob_blockofcoal",
+    "sound": "metal"
+  },
+   "ob:blockoflapislazuli": {
+    "textures": "ob_blockoflapislazuli",
+    "sound": "metal"
+  },
+   "ob:blockofnetherite": {
+    "textures": "ob_blockofnetherite",
+    "sound": "metal"
+  },
+   "ob:slimeblock": {
+    "textures": "ob_slimeblock",
+    "sound": "stone"
+  },
+   "ob:whitewool": {
+    "textures": "ob_whitewool",
+    "sound": "stone"
+  },
+   "ob:honeycombblock": {
+    "textures": "ob_honeycombblock",
+    "sound": "stone"
+  },
+   "ob:sponge": {
+    "textures": "ob_sponge",
+    "sound": "stone"
+  },
+   "ob:target": {
+    "textures": "ob_target",
+    "sound": "stone"
+  },
+   "ob:endstone": {
+    "textures": "ob_endstone",
+    "sound": "stone"
+  },
+   "ob:glowstone": {
+    "textures": "ob_glowstone",
+    "sound": "stone"
+  },
+   "ob:woolcoloredlightblue": {
+    "textures": "ob_woolcoloredlightblue",
+    "sound": "stone"
+  },
+   "ob:woolcoloredlime": {
+    "textures": "ob_woolcoloredlime",
+    "sound": "stone"
+  },
+   "ob:woolcoloredmagenta": {
+    "textures": "ob_woolcoloredmagenta",
+    "sound": "stone"
+  },
+   "ob:woolcoloredorange": {
+    "textures": "ob_woolcoloredorange",
+    "sound": "stone"
+  },
+   "ob:woolcoloredpink": {
+    "textures": "ob_woolcoloredpink",
+    "sound": "stone"
+  },
+   "ob:woolcoloredpurple": {
+    "textures": "ob_woolcoloredpurple",
+    "sound": "stone"
+  },
+   "ob:woolcoloredred": {
+    "textures": "ob_woolcoloredred",
+    "sound": "stone"
+  },
+   "ob:woolcoloredsilver": {
+    "textures": "ob_woolcoloredsilver",
+    "sound": "stone"
+  },
+   "ob:bookshelf": {
+    "textures": "ob_bookshelf",
+    "sound": "stone"
+  },
+  "format_version": [
+    1,
+    1,
+    0
+  ]
+}

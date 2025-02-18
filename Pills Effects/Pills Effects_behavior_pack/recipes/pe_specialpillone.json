@@ -1,0 +1,46 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "specialpillone_de721c67"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "BAC",
+      "DEF"
+    ],
+    "key": {
+      "A": {
+        "item": "pe:basepill",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:gunpowder",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:spider_eye",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:brown_mushroom",
+        "data": 0
+      },
+      "E": {
+        "item": "minecraft:slime_ball",
+        "data": 0
+      },
+      "F": {
+        "item": "minecraft:rabbit_hide",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pe:specialpillone",
+      "count": 1
+    }
+  }
+}

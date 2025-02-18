@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "You can now mine the ore blocks by Winnie",
+    "name": "Ore Blocks To Mine",
+    "uuid": "a1921688-6cc9-4dbb-9def-4b1f340aa697",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "You can now mine the ore blocks by Winnie",
+      "type": "resources",
+      "uuid": "7d672a4e-cee0-453d-9683-b14acff8eee2",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "e4610cd1-6eb7-40ce-b086-b30fc7967aab",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
