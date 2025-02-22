@@ -1,0 +1,41 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "strenstance_41a782c0"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CDE"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:wheat",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 5
+      },
+      "C": {
+        "item": "minecraft:gold_nugget",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:dye",
+        "data": 16
+      },
+      "E": {
+        "item": "minecraft:spider_eye",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pe:strenstance",
+      "count": 2
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "strenightpill_d8fffbae"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CDE"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:wheat",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 5
+      },
+      "C": {
+        "item": "minecraft:gold_nugget",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:dye",
+        "data": 18
+      },
+      "E": {
+        "item": "minecraft:carrot",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pe:strenightpill",
+      "count": 2
+    }
+  }
+}

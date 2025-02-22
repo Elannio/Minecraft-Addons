@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lv:watercoal",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": "lv:watercoal",
+      "minecraft:render_offsets": "miscellaneous"
+    }
+  }
+}

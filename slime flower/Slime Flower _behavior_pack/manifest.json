@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This addon will make your slime search easier through a Slim Flower by LanDay",
+    "name": "Slime Flower ",
+    "uuid": "94e63fa7-68e5-4bd0-966b-199c9b341307",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon will make your slime search easier through a Slim Flower by LanDay",
+      "type": "data",
+      "uuid": "39f30c87-9f4b-4434-a5cd-662a8744d1ea",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "457cc9be-09d6-44f0-80fc-46df3ac0b042",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

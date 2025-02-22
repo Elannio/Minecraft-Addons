@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "resistancepill_10b03fb8"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CBC"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:wheat",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 16
+      },
+      "C": {
+        "item": "minecraft:spider_eye",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pe:resistancepill",
+      "count": 2
+    }
+  }
+}

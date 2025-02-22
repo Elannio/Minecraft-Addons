@@ -1,0 +1,40 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This Addon adds some pills that referto the drugs and for each one of them has effects by LanDay",
+    "name": "Pills Effects",
+    "uuid": "701fb743-7005-4a8d-bb76-318d08f01cfa",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This Addon adds some pills that referto the drugs and for each one of them has effects by LanDay",
+      "type": "resources",
+      "uuid": "b7cbfbdd-3abc-41ea-8407-f9a06b5df224",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "23277ff0-396f-4530-ba79-997df3ae4979",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

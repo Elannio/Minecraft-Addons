@@ -1,0 +1,41 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "heroofregenerationpill_4cdd92d2"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CDE"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:wheat",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 1
+      },
+      "C": {
+        "item": "minecraft:slime_ball",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:dye",
+        "data": 2
+      },
+      "E": {
+        "item": "minecraft:glowstone_dust",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pe:heroofregenerationpill",
+      "count": 1
+    }
+  }
+}

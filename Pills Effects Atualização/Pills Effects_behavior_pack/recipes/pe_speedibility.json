@@ -1,0 +1,41 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "speedibility_0041ea4e"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CDE"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:wheat",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 19
+      },
+      "C": {
+        "item": "minecraft:brown_mushroom",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:dye",
+        "data": 17
+      },
+      "E": {
+        "item": "minecraft:fermented_spider_eye",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pe:speedibility",
+      "count": 2
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nightandvillagepill_d1aacf02"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "CDE"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:wheat",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 18
+      },
+      "C": {
+        "item": "minecraft:slime_ball",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:dye",
+        "data": 2
+      },
+      "E": {
+        "item": "minecraft:carrot",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pe:nightandvillagepill",
+      "count": 2
+    }
+  }
+}

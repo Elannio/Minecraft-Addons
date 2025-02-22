@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "jsidhdbdbdbd by kishsgsvsj",
+    "name": "hsisvsjzjv",
+    "uuid": "2609a8c6-3ab8-4d85-b33d-62316cd7e20c",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "jsidhdbdbdbd by kishsgsvsj",
+      "type": "data",
+      "uuid": "43f9211c-5aa9-4d32-a51b-a60e57db31c5",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

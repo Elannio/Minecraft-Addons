@@ -1,0 +1,25 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:scatter_feature": {
+    "description": {
+      "identifier": "pa:sf_slimeflower_scatter_feature"
+    },
+    "places_feature": "pa:sf_slimeflower_feature",
+    "iterations": 2,
+    "x": {
+      "distribution": "gaussian",
+      "extent": [
+        0,
+        15
+      ]
+    },
+    "y": 0,
+    "z": {
+      "distribution": "gaussian",
+      "extent": [
+        0,
+        15
+      ]
+    }
+  }
+}
