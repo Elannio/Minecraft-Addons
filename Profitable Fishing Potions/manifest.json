@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "With this addon your minecraft fishing will be much more profitable by LanDay",
+    "name": "Profitable Fishing Potions",
+    "uuid": "9d0bbcdf-ddc3-4f4d-a7e2-51438f7c3ad6",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      8,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "With this addon your minecraft fishing will be much more profitable by LanDay",
+      "type": "data",
+      "uuid": "a4f227fd-5ca6-40ee-8e55-ccdc20fcd145",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
